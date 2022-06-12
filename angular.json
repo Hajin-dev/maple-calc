@@ -132,9 +132,7 @@
         },
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
-          "options": {
-            "baseHref": "/maple-calc/"
-          }
+          "options": {}
         }
       }
     },
