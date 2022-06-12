@@ -7280,12 +7280,12 @@ export const chtrSkillData: SkillData[] = [
     location: 'new-assets/new-soulLink1.png',
     job: '미하일(리마스터)',
     lt: {
-      x: -300,
-      y: -250,
+      x: -320,
+      y: -300,
     },
     rb: {
-      x: 300,
-      y: 250,
+      x: 320,
+      y: 30,
     },
     origin: {
       x: 82,
