@@ -7909,7 +7909,7 @@ origin: {
   y: 172,
 },
 },{name: '섬광(이동 가능 범위?)',
-location: 'new-assets/STsharkTooth.png',
+location: 'new-assets/STflash.png',
 job: '스트라이커(리마스터)',
 lt: {
   x: -450,
