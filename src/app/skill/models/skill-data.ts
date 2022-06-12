@@ -7792,12 +7792,12 @@ origin: {
 location: 'new-assets/WBfairyTurn.png',
 job: '윈드브레이커(리마스터)',
 lt: {
-  x: -360,
+  x: -390,
   y: -170,
 },
 rb: {
-  x: -10,
-  y: 70,
+  x: -20,
+  y: 85,
 },
 origin: {
   x: 483,
