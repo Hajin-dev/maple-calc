@@ -7977,7 +7977,7 @@ origin: {
   x: 452,
   y: 172,
 },
-},{name: '해파',
+},{name: '해파(+장판의 이동 범위?)',
 location: 'new-assets/SToceanWave.png',
 job: '스트라이커(리마스터)',
 lt: {
