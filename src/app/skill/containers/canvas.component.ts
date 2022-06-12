@@ -227,6 +227,13 @@ export class CanvasComponent implements OnInit {
         skill.rb3.x - skill.lt3.x,
         skill.rb3.y - skill.lt3.y,
       );
+    } if (skill.lt4) {
+      this.ctx.strokeRect(
+        skill.lt4.x,
+        skill.lt4.y,
+        skill.rb4.x - skill.lt4.x,
+        skill.rb4.y - skill.lt4.y,
+      );
     }
     if (skill.hit_lt) {
       this.ctx.setLineDash([6]);
