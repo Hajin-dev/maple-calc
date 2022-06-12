@@ -1190,6 +1190,22 @@ export const chtrSkillData: SkillData[] = [
       x: 606,
       y: 740,
     },
+  },  {
+    name: '홀리 매직쉘 - 파티원 적용 범위',
+    location: 'assets/holyShield.png',
+    job: '비숍',
+    lt: {
+      x: -400,
+      y: -300,
+    },
+    rb: {
+      x: 400,
+      y: 300,
+    },
+    origin: {
+      x: 317,
+      y: 264,
+    },
   },
   {
     name: '프레이',
@@ -7280,12 +7296,12 @@ export const chtrSkillData: SkillData[] = [
     location: 'new-assets/new-soulLink1.png',
     job: '미하일(리마스터)',
     lt: {
-      x: -320,
-      y: -300,
+      x: -300,
+      y: -250,
     },
     rb: {
-      x: 320,
-      y: 30,
+      x: 300,
+      y: 250,
     },
     origin: {
       x: 82,
