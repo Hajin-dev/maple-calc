@@ -7274,8 +7274,8 @@ export const chtrSkillData: SkillData[] = [
       y: 40,
     },
     origin: {
-      x: 547,
-      y: 252,
+      x: 354,
+      y: 232,
     },
   },
     {name: '소울 릴리즈(3차)',
