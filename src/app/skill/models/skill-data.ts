@@ -2733,7 +2733,7 @@ export const chtrSkillData: SkillData[] = [
   },
   {
     name: '해신강림',
-    location: 'assets/godOfTheSea.png',
+    location: 'assets/whale.png',
     job: '스트라이커',
     lt: {
       x: -550,
@@ -8089,7 +8089,7 @@ origin: {
   y: 388,
 },
 },{name: '해신강림',
-location: 'new-assets/STtypoon.png',
+location: 'new-assets/STgodOfTheSea.png',
 job: '스트라이커(리마스터)',
 lt: {
   x: -550,
