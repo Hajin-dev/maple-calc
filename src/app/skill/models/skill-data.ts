@@ -5409,54 +5409,20 @@ export const chtrSkillData: SkillData[] = [
     },
   },
   {
-    name: '트리니티(1)',
+    name: '트리니티',
     location: 'assets/trinity1.png',
     job: '엔젤릭버스터',
     lt: {
-      x: -380,
-      y: -140,
-    },
-    rb: {
-      x: 120,
-      y: 40,
-    },
-    origin: {
-      x: 407,
-      y: 145,
-    },
-  },
-  {
-    name: '트리니티(2)',
-    location: 'assets/trinity2.png',
-    job: '엔젤릭버스터',
-    lt: {
-      x: -420,
-      y: -340,
-    },
-    rb: {
-      x: 30,
-      y: 10,
-    },
-    origin: {
-      x: 426,
-      y: 346,
-    },
-  },
-  {
-    name: '트리니티(3)',
-    location: 'assets/trinity3.png',
-    job: '엔젤릭버스터',
-    lt: {
-      x: -440,
-      y: -270,
+      x: -400,
+      y: -250,
     },
     rb: {
       x: 50,
-      y: 10,
+      y: 70,
     },
     origin: {
-      x: 514,
-      y: 286,
+      x: 420,
+      y: 341,
     },
   },
   {
