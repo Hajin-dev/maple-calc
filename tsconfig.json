@@ -1,6 +1,4 @@
-{"angularCompilerOptions": {
-  "strictTemplates": true
-},
+{
   "compileOnSave": false,
   "compilerOptions": {
     "baseUrl": "./",
