@@ -6904,6 +6904,297 @@ export const chtrSkillData: SkillData[] = [
       x: 1327,
       y: 441,
     },
+  },{
+    name: '정기 뿌리기',
+    location: 'assets/AMbasicAttack2.png',
+    job: '라라',
+    lt: {
+      x: -400,
+      y: -210,
+    },
+    rb: {
+      x: 5,
+      y: 70,
+    },
+    lt2: {
+      x: -410,
+      y: -180,
+    },
+    rb2: {
+      x: -30,
+      y: 50,
+    },
+    origin: {
+      x: 536,
+      y: 255,
+    },
+  },{
+    name: '분출-인식?',
+    location: 'assets/AMeruption1.png',
+    job: '라라',
+    lt: {
+      x: -350,
+      y: -180,
+    },
+    rb: {
+      x: 80,
+      y: 150,
+    },
+    origin: {
+      x: 92,
+      y: 180,
+    },
+  },{
+    name: '분출: 너울이는 강',
+    location: 'assets/AMeruptionRiver.png',
+    job: '라라',
+    lt: {
+      x: -370,
+      y: -370,
+    },
+    rb: {
+      x: 370,
+      y: 100,
+    },
+    lt2: {
+      x: -465,
+      y: -410,
+    },
+    rb2: {
+      x: 430,
+      y: 100,
+    },
+    origin: {
+      x: 316,
+      y: 326,
+    },
+  },{
+    name: '분출: 돌개바람',
+    location: 'assets/AMeruptionWind2.png',
+    job: '라라',
+    lt: {
+      x: -500,
+      y: -600,
+    },
+    rb: {
+      x: 500,
+      y: 30,
+    },
+    lt2: {
+      x: -330,
+      y: -440,
+    },
+    rb2: {
+      x: 330,
+      y: 10,
+    },
+    origin: {
+      x: 394,
+      y: 758,
+    },
+  },{
+    name: '분출: 해돋이 우물',
+    location: 'assets/AMeruptionSun2.png',
+    job: '라라',
+    lt: {
+      x: -350,
+      y: -430,
+    },
+    rb: {
+      x: 350,
+      y: 30,
+    },
+    lt2: {
+      x: -360,
+      y: -430,
+    },
+    rb2: {
+      x: 360,
+      y: 30,
+    },
+    origin: {
+      x: 422,
+      y: 485,
+    },
+  },{
+    name: '땅 꼬마',
+    location: 'assets/AMplanting.png',
+    job: '라라',
+    lt: {
+      x: -200,
+      y: -135,
+    },
+    rb: {
+      x: 200,
+      y: 5,
+    },
+    origin: {
+      x: 61,
+      y: 105,
+    },
+  },{
+    name: '발현: 바람 그네',
+    location: 'assets/AMexpressionWind.png',
+    job: '라라',
+    lt: {
+      x: -235,
+      y: -460,
+    },
+    rb: {
+      x: 235,
+      y: 20,
+    },lt2: {
+      x: -235,
+      y: -400,
+    },
+    rb2: {
+      x: 235,
+      y: -5,
+    },
+    origin: {
+      x: 283,
+      y: 513,
+    },
+  },{
+    name: '발현: 햇살 가득 안은 터',
+    location: 'assets/AMexpressionSun.png',
+    job: '라라',
+    lt: {
+      x: -300,
+      y: -150,
+    },
+    rb: {
+      x: 300,
+      y: 150,
+    },lt2: {
+      x: -350,
+      y: -180,
+    },
+    rb2: {
+      x: 80,
+      y: 150,
+    },
+    origin: {
+      x: 313,
+      y: 488,
+    },
+  },{
+    name: '잠 깨우기',
+    location: 'assets/AMroughEruption.png',
+    job: '라라',
+    lt: {
+      x: -350,
+      y: -180,
+    },
+    rb: {
+      x: 80,
+      y: 150,
+    },lt2: {
+      x: -160,
+      y: -450,
+    },
+    rb3: {
+      x: -400,
+      y: -400,
+    },lt3: {
+      x: 400,
+      y: 300,
+    },
+    rb2: {
+      x: 160,
+      y: -110,
+    },
+    origin: {
+      x: 271,
+      y: 306,
+    },
+  },{
+    name: '아름드리 나무',
+    location: 'assets/AMhomeOfSpirits.png',
+    job: '라라',
+    lt: {
+      x: -295,
+      y: -415,
+    },
+    rb: {
+      x: 295,
+      y: 1,
+    },
+    origin: {
+      x: 448,
+      y: 493,
+    },
+  },{
+    name: '큰 기지개',
+    location: 'assets/AMEruptionEarthVeinAll.png',
+    job: '라라',
+    lt: {
+      x: -700,
+      y: -600,
+    },
+    rb: {
+      x: 700,
+      y: 600,
+    },
+    origin: {
+      x: 355,
+      y: 605,
+    },lt2: {
+      x: -500,
+      y: -450,
+    },
+    rb2: {
+      x: 500,
+      y: 450,
+    },
+  },{
+    name: '해 강 산 바람',
+    location: 'assets/AMCombinationBlow.png',
+    job: '라라',
+    lt: {
+      x: -1122,
+      y: -680,
+    },
+    rb: {
+      x: 192,
+      y: -4,
+    },
+    origin: {
+      x: 664,
+      y: 466,
+    },
+  },{
+    name: '용솟음치는 정기',
+    location: 'assets/AMAdvancedBasicAttack.png',
+    job: '라라',
+    lt: {
+      x: -700,
+      y: -385,
+    },
+    rb: {
+      x: 30,
+      y: 2,
+    },
+    origin: {
+      x: 1057,
+      y: 554,
+    },
+  },{
+    name: '산등성 굽이굽이',
+    location: 'assets/AMBurstUp.png',
+    job: '라라',
+    lt: {
+      x: -180,
+      y: -230,
+    },
+    rb: {
+      x: 130,
+      y: 5,
+    },
+    origin: {
+      x: 171,
+      y: 218,
+    },
   },
   {
     name: 'Shikigami Haunting 4',
@@ -7292,7 +7583,7 @@ export const chtrSkillData: SkillData[] = [
       y: 173,
     },
   },  {
-    name: '샤이닝 크로스',
+    name: '샤이닝 크로스(4차)',
     location: 'new-assets/new-shiningCross.png',
     job: '미하일(리마스터)',
     lt: {
@@ -7304,8 +7595,8 @@ export const chtrSkillData: SkillData[] = [
       y: 130,
     },
     origin: {
-      x: 642,
-      y: 270,
+      x: 518,
+      y: 292,
     },
   },{name: '샤이닝 크로스(어썰트)',
     location: 'new-assets/shiningAssault.png',
@@ -7337,7 +7628,7 @@ export const chtrSkillData: SkillData[] = [
       x: 179,
       y: 330,
     },
-  },{name: '데들리 차지',
+  },{name: '데들리 차지(하이퍼)',
     location: 'new-assets/new-deadlyCharge.png',
     job: '미하일(리마스터)',
     lt: {
@@ -7619,7 +7910,7 @@ origin: {
   x: 478,
   y: 219,
 },
-},{name: '마엘스트롬(범위)',
+},{name: '마엘스트롬(3차-범위)',
 location: 'new-assets/FWcolossusBomb.png',
 job: '플레임위자드(리마스터)',
 lt: {
@@ -7664,7 +7955,7 @@ origin: {
   x: 214,
   y: 392,
 },
-},{name: '버닝 리전',
+},{name: '버닝 리전(4차)',
 location: 'new-assets/FWburningRegion.png',
 job: '플레임위자드(리마스터)',
 lt: {
@@ -7754,7 +8045,7 @@ origin: {
   x: 80,
   y: 157,
 },
-},{name: '페어리 턴',
+},{name: '페어리 턴(4차)',
 location: 'new-assets/WBfairyTurn.png',
 job: '윈드브레이커(리마스터)',
 lt: {
@@ -7769,7 +8060,7 @@ origin: {
   x: 483,
   y: 236,
 },
-},{name: '천공의 노래',
+},{name: '천공의 노래(4차)',
 location: 'new-assets/WBsongOfSky.png',
 job: '윈드브레이커(리마스터)',
 lt: {
@@ -7784,7 +8075,7 @@ origin: {
   x: 246,
   y: 235,
 },
-},{name: '몬순',
+},{name: '몬순(하이퍼)',
 location: 'new-assets/WBmonsoon.png',
 job: '윈드브레이커(리마스터)',
 lt: {
@@ -7859,7 +8150,7 @@ origin: {
   x: 276,
   y: 220,
 },
-},{name: '충아',
+},{name: '충아(1차)',
 location: 'new-assets/STsharkTooth.png',
 job: '스트라이커(리마스터)',
 lt: {
@@ -7913,7 +8204,7 @@ origin: {
   x: 213,
   y: 94,
 },
-},{name: '회축',
+},{name: '회축(2차)',
 location: 'new-assets/STsharkKick.png',
 job: '스트라이커(리마스터)',
 lt: {
@@ -7928,7 +8219,7 @@ origin: {
   x: 291,
   y: 240,
 },
-},{name: '파도',
+},{name: '파도(2차)',
 location: 'new-assets/STwaterWave.png',
 job: '스트라이커(리마스터)',
 lt: {
@@ -7965,7 +8256,7 @@ origin: {
   x: 452,
   y: 172,
 },
-},{name: '승천',
+},{name: '승천(3차)',
 location: 'new-assets/STsharkSoryuken.png', //켄이냐?
 job: '스트라이커(리마스터)',
 lt: {
@@ -7980,7 +8271,7 @@ origin: {
   x: 241,
   y: 331,
 },
-},{name: '뇌성',
+},{name: '뇌성(3차)',
 location: 'new-assets/STthunder.png',
 job: '스트라이커(리마스터)',
 lt: {
@@ -7995,7 +8286,7 @@ origin: {
   x: 391,
   y: 86,
 },
-},{name: '질풍',
+},{name: '질풍(3차)',
 location: 'new-assets/STtornado.png',
 job: '스트라이커(리마스터)',
 lt: {
@@ -8010,7 +8301,7 @@ origin: {
   x: 412,
   y: 262,
 },
-},{name: '섬멸',
+},{name: '섬멸(4차)',
 location: 'new-assets/STsharkUltimate.png',
 job: '스트라이커(리마스터)',
 lt: {
@@ -8025,7 +8316,7 @@ origin: {
   x: 335,
   y: 223,
 },
-},{name: '벽력',
+},{name: '벽력(4차)',
 location: 'new-assets/STthunderBolt.png',
 job: '스트라이커(리마스터)',
 lt: {
@@ -8039,7 +8330,7 @@ rb: {
 origin: {
   x: 565,
   y: 542,
-}},{name: '태풍',
+}},{name: '태풍(4차)',
 location: 'new-assets/STtypoon.png',
 job: '스트라이커(리마스터)',
 lt: {
@@ -8054,7 +8345,7 @@ origin: {
   x: 622,
   y: 388,
 },
-},{name: '해신강림',
+},{name: '해신강림(하이퍼)',
 location: 'new-assets/STgodOfTheSea.png',
 job: '스트라이커(리마스터)',
 lt: {
