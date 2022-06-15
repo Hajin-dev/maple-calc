@@ -513,6 +513,22 @@ export const chtrSkillData: SkillData[] = [
       y: 414,
     },
     scale: 201,
+  },{
+    name: '영웅의 메아리 - 적용 범위 ',
+    location: 'assets/EchoOfHero.png',
+    job: '공용',
+    lt: {
+      x: -400,
+      y: -300,
+    },
+    rb: {
+      x: 400,
+      y: 300,
+    },
+    origin: {
+      x: 39,
+      y: 123,
+    }
   },
   {
     name: '파이렛 플래그',
@@ -580,6 +596,22 @@ export const chtrSkillData: SkillData[] = [
     origin: {
       x: 405,
       y: 248,
+    },
+  },{
+    name: '스피릿 블레이드 - 적용 범위',
+    location: 'assets/furyNew.png',
+    job: '히어로',
+    lt: {
+      x: -300,
+      y: -200,
+    },
+    rb: {
+      x: 300,
+      y: 200,
+    },
+    origin: {
+      x: 147,
+      y: 350,
     },
   },
   {
@@ -785,6 +817,22 @@ export const chtrSkillData: SkillData[] = [
       x: 727,
       y: 360,
     },
+  },{
+    name: '컴뱃 오더스 - 적용 범위',
+    location: 'assets/CombatOrders.png',
+    job: '팔라딘',
+    lt: {
+      x: -400,
+      y: -300,
+    },
+    rb: {
+      x: 400,
+      y: 300,
+    },
+    origin: {
+      x: 222,
+      y: 376,
+    }
   },
   {
     name: '블래스트',
@@ -870,6 +918,22 @@ export const chtrSkillData: SkillData[] = [
       x: 597,
       y: 716,
     },
+  },{
+    name: '가디언 스피릿 - 부활 범위',
+    location: 'assets/guardianSpirit.png',
+    job: '팔라딘',
+    lt: {
+      x: -400,
+      y: -350,
+    },
+    rb: {
+      x: 400,
+      y: 250,
+    },
+    origin: {
+      x: 202,
+      y: 365,
+    },
   },
   {
     name: '그랜드 크로스(1)',
@@ -919,6 +983,39 @@ export const chtrSkillData: SkillData[] = [
     origin: {
       x: 315,
       y: 363,
+    },
+  },
+  {
+    name: '홀리 유니티 - 탐색 가능 범위',
+    location: 'assets/holyUnity.png',
+    job: '팔라딘',
+    lt: {
+      x: -500,
+      y: -150,
+    },
+    rb: {
+      x: 30,
+      y: 30,
+    },
+    origin: {
+      x: 185,
+      y: 460,
+    },
+  },{
+    name: '하이퍼 바디 - 적용 범위',
+    location: 'assets/darkimpale.png',
+    job: '다크나이트',
+    lt: {
+      x: -250,
+      y: -150,
+    },
+    rb: {
+      x: 250,
+      y: 150,
+    },
+    origin: {
+      x: 130,
+      y: 239,
     },
   },
   {
@@ -1021,6 +1118,22 @@ export const chtrSkillData: SkillData[] = [
     origin: {
       x: 452,
       y: 644,
+    },
+  },{
+    name: '메디테이션',
+    location: 'assets/meditation.png',
+    job: '불독/썬콜',
+    lt: {
+      x: -300,
+      y: -200,
+    },
+    rb: {
+      x: 300,
+      y: 200,
+    },
+    origin: {
+      x: 216,
+      y: 254,
     },
   },
   {
@@ -1191,8 +1304,39 @@ export const chtrSkillData: SkillData[] = [
     origin: {
       x: 606,
       y: 740,
-    },
+    }},
+      {name: '힐 - 회복 적용 범위',
+      location: 'assets/heal.png',
+      job: '비숍',
+      lt: {
+        x: -225,
+        y: -200,
+      },
+      rb: {
+        x: 225,
+        y: 200,
+      },
+      origin: {
+        x: 83,
+        y: 174,
+      },
   },  {
+    name: '어드밴스드 블레스 - 파티원 적용 범위',
+    location: 'assets/advancedBless.png',
+    job: '비숍',
+    lt: {
+      x: -300,
+      y: -200,
+    },
+    rb: {
+      x: 300,
+      y: 200,
+    },
+    origin: {
+      x: 175,
+      y: 258,
+    },
+  }, {
     name: '홀리 매직쉘 - 파티원 적용 범위',
     location: 'assets/holyShield.png',
     job: '비숍',
@@ -1224,6 +1368,29 @@ export const chtrSkillData: SkillData[] = [
     origin: {
       x: 453,
       y: 288,
+    },
+  }, {
+    name: '홀리 심볼 - 적용 범위 & 최대 거리',
+    location: 'assets/holySymbol.png',
+    job: '비숍',
+    lt: {
+      x: -350,
+      y: -225,
+    },
+    rb: {
+      x: 350,
+      y: 225,
+    },lt2: {
+      x: -800,
+      y: -600,
+    },
+    rb2: {
+      x: 800,
+      y: 600,
+    },
+    origin: {
+      x: 300,
+      y: 357,
     },
   },
   {
@@ -1275,6 +1442,22 @@ export const chtrSkillData: SkillData[] = [
     origin: {
       x: 617,
       y: 530,
+    },
+  }, {
+    name: '샤프 아이즈 - 적용 범위',
+    location: 'assets/sharpEyes.png',
+    job: '공통',
+    lt: {
+      x: -400,
+      y: -300,
+    },
+    rb: {
+      x: 400,
+      y: 300,
+    },
+    origin: {
+      x: 113,
+      y: 245,
     },
   },
   {
@@ -1623,6 +1806,70 @@ export const chtrSkillData: SkillData[] = [
     origin: {
       x: 710,
       y: 236,
+    },
+  },{
+    name: '옵시디언 배리어(디스차지) - 부여 가능 범위',
+    location: 'assets/5thObsidianBarrier.png',
+    job: '패스파인더',
+    lt: {
+      x: -400,
+      y: -300,
+    },
+    rb: {
+      x: 300,
+      y: 300,
+    },
+    origin: {
+      x: 63,
+      y: 171,
+    },
+  },{
+    name: '옵시디언 배리어(디스차지)',
+    location: 'assets/5thObsidianBarrier1.png',
+    job: '패스파인더',
+    lt: {
+      x: -200,
+      y: -200,
+    },
+    rb: {
+      x: 200,
+      y: 10,
+    },
+    origin: {
+      x: 242,
+      y: 316,
+    },
+  },{
+    name: '옵시디언 배리어(블래스트)',
+    location: 'assets/5thObsidianBarrier2.png',
+    job: '패스파인더',
+    lt: {
+      x: -300,
+      y: -300,
+    },
+    rb: {
+      x: 300,
+      y: 10,
+    },
+    origin: {
+      x: 598,
+      y: 790,
+    },
+  },{
+    name: '옵시디언 배리어(트랜지션)',
+    location: 'assets/5thObsidianBarrier3.png',
+    job: '패스파인더',
+    lt: {
+      x: -200,
+      y: -200,
+    },
+    rb: {
+      x: 200,
+      y: 10,
+    },
+    origin: {
+      x: 325,
+      y: 392,
     },
   },
   {
@@ -3138,6 +3385,22 @@ export const chtrSkillData: SkillData[] = [
       x: 811,
       y: 1098,
     },
+  }, {
+    name: '뱀피릭 터치',
+    location: 'assets/LeechAura.png',
+    job: '데몬슬레이어',
+    lt: {
+      x: -512,
+      y: -384,
+    },
+    rb: {
+      x: 512,
+      y: 384,
+    },
+    origin: {
+      x: 162,
+      y: 289,
+    },
   },
   {
     name: '익시드 : 문라이트 슬래시',
@@ -3427,6 +3690,22 @@ export const chtrSkillData: SkillData[] = [
       x: 423,
       y: 502,
     },
+  },{
+    name: '하울링 - 적용 범위',
+    location: 'assets/howling.png',
+    job: '와일드헌터',
+    lt: {
+      x: -300,
+      y: -200,
+    },
+    rb: {
+      x: 300,
+      y: 200,
+    },
+    origin: {
+      x: 91,
+      y: 131,
+    },
   },
   {
     name: '와일드 발칸 Type X',
@@ -3665,6 +3944,22 @@ export const chtrSkillData: SkillData[] = [
       x: 437,
       y: 559,
     },
+  },{
+    name: '블레싱 마하',
+    location: 'assets/MahaBlessing.png',
+    job: '아란',
+    lt: {
+      x: -300,
+      y: -200,
+    },
+    rb: {
+      x: 300,
+      y: 200,
+    },
+    origin: {
+      x: 78,
+      y: 189,
+    },
   },
   {
     name: '파이널 블로우',
@@ -3732,6 +4027,22 @@ export const chtrSkillData: SkillData[] = [
     origin: {
       x: 376,
       y: 444,
+    },
+  },{
+    name: '마하의 영역 - 지원 범위',
+    location: 'assets/zoneOfMaha.png',
+    job: '아란',
+    lt: {
+      x: -500,
+      y: -500,
+    },
+    rb: {
+      x: 500,
+      y: 500,
+    },
+    origin: {
+      x: 802,
+      y: 419,
     },
   },
   {
@@ -4372,6 +4683,38 @@ export const chtrSkillData: SkillData[] = [
       x: 714,
       y: 427,
     },
+  },{
+    name: '샤인 리뎀션 - 회복 가능 범위', // 실험 요구됨 일단은 공격 범위랑 비슷한 것으로 추정
+    location: 'assets/LMshineRedemption.png',
+    job: '루미너스',
+    lt: {
+      x: -400,
+      y: -230,
+    },
+    rb: {
+      x: 19,
+      y: 150,
+    },
+    origin: {
+      x: 468,
+      y: 305,
+    },
+  },{
+    name: '포딕 메디테이션',
+    location: 'assets/PhoticMeditation.png',
+    job: '루미너스',
+    lt: {
+      x: -300,
+      y: -200,
+    },
+    rb: {
+      x: 300,
+      y: 200,
+    },
+    origin: {
+      x: 66,
+      y: 165,
+    },
   },
   {
     name: '아포칼립스',
@@ -4574,6 +4917,22 @@ export const chtrSkillData: SkillData[] = [
     origin: {
       x: 308,
       y: 216,
+    },
+  },{
+    name: '조커 - 파티원 적용 범위',
+    location: 'assets/5thJoker.png',
+    job: '팬텀',
+    lt: {
+      x: -400,
+      y: -300,
+    },
+    rb: {
+      x: 400,
+      y: 300,
+    },
+    origin: {
+      x: 259,
+      y: 314,
     },
   },
   {
@@ -6734,6 +7093,38 @@ export const chtrSkillData: SkillData[] = [
       x: 1094,
       y: 1175,
     },
+  },{
+    name: '타임 디스토션',
+    location: 'assets/timeDistotion.png',
+    job: '제로',
+    lt: {
+      x: -310,
+      y: -200,
+    },
+    rb: {
+      x: 300,
+      y: 10,
+    },
+    origin: {
+      x: 355,
+      y: 251,
+    },
+  },{
+    name: '디바인 포스/스위프트',
+    location: 'assets/divineForce.png',
+    job: '제로',
+    lt: {
+      x: -300,
+      y: -125,
+    },
+    rb: {
+      x: 300,
+      y: 125,
+    },
+    origin: {
+      x: 52,
+      y: 42,
+    },
   },
   {
     name: '얼티메이트-메테리얼',
@@ -7470,7 +7861,7 @@ export const chtrSkillData: SkillData[] = [
     scale: 200,
   }, 
     {
-    name: '로얄가드-피격범위',
+    name: '로얄가드 - 피격범위',
     location: 'new-assets/new-royalguard.png',
     job: '미하일(리마스터)',
     lt: {
@@ -7550,8 +7941,23 @@ export const chtrSkillData: SkillData[] = [
       x: 425,
       y: 243,
     },
+  },{name: '인커리지 - 적용 범위',
+  location: 'new-assets/encourage.png',
+  job: '미하일(리마스터)',
+  lt: {
+    x: -300,
+    y: -200,
   },
-  {name: '소울 링크-파티원 적용범위',
+  rb: {
+    x: 300,
+    y: 200,
+  },
+  origin: {
+    x: 139,
+    y: 264,
+  },
+},
+  {name: '소울 링크 - 파티원 적용범위',
     location: 'new-assets/new-soulLink1.png',
     job: '미하일(리마스터)',
     lt: {
@@ -7776,7 +8182,7 @@ origin: {
   x: 221,
   y: 235,
 },
-},{name: '코스믹 매터-범위?(2차)',
+},{name: '코스믹 매터 - 범위?(2차)',
 location: 'new-assets/SMcosmicVoid.png',
 job: '소울마스터(리마스터)',
 lt: {
@@ -7910,7 +8316,7 @@ origin: {
   x: 478,
   y: 219,
 },
-},{name: '마엘스트롬(3차-범위)',
+},{name: '마엘스트롬(3차) - 범위',
 location: 'new-assets/FWcolossusBomb.png',
 job: '플레임위자드(리마스터)',
 lt: {
@@ -8000,7 +8406,7 @@ origin: {
   x: 237,
   y: 107,
 },
-},{name: '윔 추적 범위?',
+},{name: '윔 - 추적 범위?',
 location: 'new-assets/WBspiralVortex.png',
 job: '윈드브레이커(리마스터)',
 lt: {
@@ -8030,7 +8436,7 @@ origin: {
   x: 314,
   y: 429,
 },
-},{name: '에메랄드 플라워(어그로 범위?)',
+},{name: '에메랄드 플라워 - 어그로 범위?',
 location: 'new-assets/WBemeraldFlower.png',
 job: '윈드브레이커(리마스터)',
 lt: {
@@ -8090,7 +8496,7 @@ origin: {
   x: 722,
   y: 607,
 },
-},{name: '스톰 윔(범위?)',
+},{name: '스톰 윔 - 범위?',
 location: 'new-assets/WBStormWhim.png',
 job: '윈드브레이커(리마스터)',
 lt: {
@@ -8135,7 +8541,7 @@ origin: {
   x: 502,
   y: 469,
 },
-},{name: '쉐도우 스티치(적용 범위?)',
+},{name: '쉐도우 스티치 - 적용 범위?',
 location: 'new-assets/NWshadowStitch.png',
 job: '나이트워커(리마스터)',
 lt: {
@@ -8165,7 +8571,7 @@ origin: {
   x: 335,
   y: 172,
 },
-},{name: '섬광(이동 가능 범위?)',
+},{name: '섬광 - 이동 가능 범위?',
 location: 'new-assets/STflash.png',
 job: '스트라이커(리마스터)',
 lt: {
