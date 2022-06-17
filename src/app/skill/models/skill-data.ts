@@ -1288,6 +1288,22 @@ export const chtrSkillData: SkillData[] = [
       x: 423,
       y: 478,
     },
+  },{
+    name: '디스펠',
+    location: 'assets/dispell.png',
+    job: '비숍',
+    lt: {
+      x: -300,
+      y: -225,
+    },
+    rb: {
+      x: 300,
+      y: 225,
+    },
+    origin: {
+      x: 349,
+      y: 518,
+    },
   },
   {
     name: '헤븐즈 도어',
@@ -1351,6 +1367,22 @@ export const chtrSkillData: SkillData[] = [
     origin: {
       x: 317,
       y: 264,
+    },
+  },{
+    name: '홀리 파운틴',
+    location: 'assets/holyFountain.png',
+    job: '비숍',
+    lt: {
+      x: -200,
+      y: -125,
+    },
+    rb: {
+      x: 200,
+      y: 30,
+    },
+    origin: {
+      x: 191,
+      y: 331,
     },
   },
   {

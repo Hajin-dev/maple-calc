@@ -1,4 +1,5 @@
 {
+  "homepage": "https://hajin-dev.github.io/maple-calc/",
   "compileOnSave": false,
   "compilerOptions": {
     "baseUrl": "./",
