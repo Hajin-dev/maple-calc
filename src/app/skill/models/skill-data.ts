@@ -2748,7 +2748,7 @@ export const chtrSkillData: SkillData[] = [
     },
     rb: {
       x: 330,
-      y: 10,
+      y: 70,
     },
     origin: {
       x: 247,
@@ -8040,16 +8040,16 @@ export const chtrSkillData: SkillData[] = [
     location: 'new-assets/shiningAssault.png',
     job: '미하일(리마스터)',
     lt: {
-      x: -300,
-      y: -160,
+      x: -350,
+      y: -200,
     },
     rb: {
       x: 20,
-      y: 50,
+      y: 60,
     },
     origin: {
-      x: 445,
-      y: 248,
+      x: 486,
+      y: 317,
     },
   },{name: '인스톨 쉴드(공격)',
     location: 'new-assets/installShield.png',
