@@ -7,7 +7,7 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "deploy": "ng deploy --base-href=/maple=calc/",
+    "deploy": "ng deploy --base-href=/maple-calc/",
     "e2e": "ng e2e",
     "postinstall": "ngcc"
   },
