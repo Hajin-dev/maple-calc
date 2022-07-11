@@ -1478,7 +1478,7 @@ export const chtrSkillData: SkillData[] = [
   }, {
     name: '샤프 아이즈 - 적용 범위',
     location: 'assets/sharpEyes.png',
-    job: '공통',
+    job: '공용',
     lt: {
       x: -400,
       y: -300,
@@ -1490,6 +1490,22 @@ export const chtrSkillData: SkillData[] = [
     origin: {
       x: 113,
       y: 245,
+    },
+  },{
+    name: '피닉스/프리저/레이븐',
+    location: 'assets/phoenix.png',
+    job: '공용',
+    lt: {
+      x: -280,
+      y: -100,
+    },
+    rb: {
+      x: 100,
+      y: 30,
+    },
+    origin: {
+      x: 250,
+      y: 248,
     },
   },
   {
@@ -2534,6 +2550,7 @@ export const chtrSkillData: SkillData[] = [
       y: 155 + 75,
     },
   },
+/*   리마스터로 인한 삭제
   {
     name: '크레센트 디바이드',
     location: 'assets/crescentdivide.png',
@@ -3043,7 +3060,7 @@ export const chtrSkillData: SkillData[] = [
       x: 320 + 180,
       y: 289 + 95,
     },
-  },
+  }, */
   {
     name: '매그넘 펀치',
     location: 'assets/magnumpunch.png',
@@ -3660,16 +3677,16 @@ export const chtrSkillData: SkillData[] = [
     location: 'assets/finishblow.png',
     job: '배틀메이지',
     lt: {
-      x: -230,
-      y: -120,
+      x: -300,
+      y: -160,
     },
     rb: {
-      x: 10,
-      y: 10,
+      x: 40,
+      y: 50,
     },
     origin: {
-      x: 157,
-      y: 103,
+      x: 340,
+      y: 226,
     },
   },
   {
@@ -3737,6 +3754,22 @@ export const chtrSkillData: SkillData[] = [
     origin: {
       x: 91,
       y: 131,
+    },
+  },  {
+    name: '와일드 발칸 Type-P',
+    location: 'assets/wildbalkantypep.png',
+    job: '와일드헌터',
+    lt: {
+      x: -430,
+      y: -190,
+    },
+    rb: {
+      x: 0,
+      y: 30,
+    },
+    origin: {
+      x: 520,
+      y: 226,
     },
   },
   {
@@ -7895,7 +7928,7 @@ export const chtrSkillData: SkillData[] = [
     {
     name: '로얄가드 - 피격범위',
     location: 'new-assets/new-royalguard.png',
-    job: '미하일(리마스터)',
+    job: '미하일',
     lt: {
       x: -90,
       y: -95,
@@ -7911,7 +7944,7 @@ export const chtrSkillData: SkillData[] = [
   },   {
     name: '로얄가드 5단계',
     location: 'new-assets/new-royalguard5-hit.png',
-    job: '미하일(리마스터)',
+    job: '미하일',
     lt: {
       x: -370,
       y: -380,
@@ -7925,10 +7958,10 @@ export const chtrSkillData: SkillData[] = [
       y: 519,
     },
   },
-     {
+     /* {
     name: '샤이닝 피어스(1차)',
     location: 'new-assets/shiningPierce.png',
-    job: '미하일(리마스터)',
+    job: '미하일',
     lt: {
       x: -290,
       y: -115
@@ -7944,7 +7977,7 @@ export const chtrSkillData: SkillData[] = [
   },
   {name: '소울 어썰트(2차)',
     location: 'new-assets/new-soulAssault.png',
-    job: '미하일(리마스터)',
+    job: '미하일',
     lt: {
       x: -310,
       y: -140,
@@ -7960,7 +7993,7 @@ export const chtrSkillData: SkillData[] = [
   },
     {name: '소울 릴리즈(3차)',
     location: 'new-assets/soulRelease.png',
-    job: '미하일(리마스터)',
+    job: '미하일',
     lt: {
       x: -335,
       y: -175,
@@ -7973,9 +8006,9 @@ export const chtrSkillData: SkillData[] = [
       x: 425,
       y: 243,
     },
-  },{name: '인커리지 - 적용 범위',
+  }, */{name: '인커리지 - 적용 범위',
   location: 'new-assets/encourage.png',
-  job: '미하일(리마스터)',
+  job: '미하일',
   lt: {
     x: -300,
     y: -200,
@@ -7991,7 +8024,7 @@ export const chtrSkillData: SkillData[] = [
 },
   {name: '소울 링크 - 파티원 적용범위',
     location: 'new-assets/new-soulLink1.png',
-    job: '미하일(리마스터)',
+    job: '미하일',
     lt: {
       x: -400,
       y: -250,
@@ -8007,7 +8040,7 @@ export const chtrSkillData: SkillData[] = [
   },  {
     name: '오펜시브 디펜스 추가타',
     location: 'new-assets/offensiveDefense.png',
-    job: '미하일(리마스터)',
+    job: '미하일',
     lt: {
       x: -335,
       y: -140,
@@ -8021,9 +8054,9 @@ export const chtrSkillData: SkillData[] = [
       y: 173,
     },
   },  {
-    name: '샤이닝 크로스(4차)',
+    name: '샤이닝 크로스',
     location: 'new-assets/new-shiningCross.png',
-    job: '미하일(리마스터)',
+    job: '미하일',
     lt: {
       x: -400,
       y: -200,
@@ -8036,9 +8069,9 @@ export const chtrSkillData: SkillData[] = [
       x: 518,
       y: 292,
     },
-  },{name: '샤이닝 크로스(어썰트)',
+  },{name: '샤이닝 크로스-어썰트',
     location: 'new-assets/shiningAssault.png',
-    job: '미하일(리마스터)',
+    job: '미하일',
     lt: {
       x: -350,
       y: -200,
@@ -8053,7 +8086,7 @@ export const chtrSkillData: SkillData[] = [
     },
   },{name: '인스톨 쉴드(공격)',
     location: 'new-assets/installShield.png',
-    job: '미하일(리마스터)',
+    job: '미하일',
     lt: {
       x: -285,
       y: -350,
@@ -8068,7 +8101,7 @@ export const chtrSkillData: SkillData[] = [
     },
   },{name: '데들리 차지(하이퍼)',
     location: 'new-assets/new-deadlyCharge.png',
-    job: '미하일(리마스터)',
+    job: '미하일',
     lt: {
       x: -500,
       y: -400,
@@ -8083,7 +8116,7 @@ export const chtrSkillData: SkillData[] = [
     },
   },{name: '소울 마제스티(빛의 파동)',
     location: 'new-assets/soulMajesty.png',
-    job: '미하일(리마스터)',
+    job: '미하일',
     lt: {
       x: -425,
       y: -185,
@@ -8096,9 +8129,9 @@ export const chtrSkillData: SkillData[] = [
       x: 435,
       y: 256,
     },
-  },{name: '솔라 슬래시',
+  },/* {name: '솔라 슬래시',
   location: 'new-assets/SMsolarSlash.png',
-  job: '소울마스터(리마스터)',
+  job: '소울마스터',
   lt: {
     x: -220,
     y: -150,
@@ -8113,7 +8146,7 @@ export const chtrSkillData: SkillData[] = [
   },
 },{name: '루나 디바이드',
 location: 'new-assets/SMlunarDivide.png',
-job: '소울마스터(리마스터)',
+job: '소울마스터',
 lt: {
   x: -250,
   y: -165,
@@ -8128,7 +8161,7 @@ origin: {
 },
 },{name: '솔라 슬래시(2차)',
 location: 'new-assets/SMsolarSlash2.png',
-job: '소울마스터(리마스터)',
+job: '소울마스터',
 lt: {
   x: -310,
   y: -160,
@@ -8143,7 +8176,7 @@ origin: {
 },
 },{name: '루나 디바이드(2차)',
 location: 'new-assets/SMlunarDivide2.png',
-job: '소울마스터(리마스터)',
+job: '소울마스터',
 lt: {
   x: -310,
   y: -185,
@@ -8158,7 +8191,7 @@ origin: {
 },
 },{name: '소울 슬래시(3차)',
 location: 'new-assets/SMsolarSlash3.png',
-job: '소울마스터(리마스터)',
+job: '소울마스터',
 lt: {
   x: -360,
   y: -165,
@@ -8172,7 +8205,7 @@ origin: {
   y: 178,
 }},{name: '루나 디바이드(3차)',
 location: 'new-assets/SMlunarDivide3.png',
-job: '소울마스터(리마스터)',
+job: '소울마스터',
 lt: {
   x: -360,
   y: -185,
@@ -8184,10 +8217,10 @@ rb: {
 origin: {
   x: 177,
   y: 203,
-},
-},{name: '소울 슬래시(4차)',
+}, 
+},*/{name: '소울 슬래시(4차)',
 location: 'new-assets/SMsolarSlash4.png',
-job: '소울마스터(리마스터)',
+job: '소울마스터',
 lt: {
   x: -400,
   y: -180,
@@ -8201,7 +8234,7 @@ origin: {
   y: 179,
 }},{name: '루나 디바이드(4차)',
 location: 'new-assets/SMlunarDivide4.png',
-job: '소울마스터(리마스터)',
+job: '소울마스터',
 lt: {
   x: -400,
   y: -205,
@@ -8214,9 +8247,9 @@ origin: {
   x: 221,
   y: 235,
 },
-},{name: '코스믹 매터 - 범위?(2차)',
+},{name: '코스믹 매터 - 범위?',
 location: 'new-assets/SMcosmicVoid.png',
-job: '소울마스터(리마스터)',
+job: '소울마스터',
 lt: {
   x: -130,
   y: -130,
@@ -8228,9 +8261,9 @@ rb: {
 origin: {
   x: 218,
   y: 210,
-}},{name: '코스믹 샤워-설치(3차)',
+}},{name: '코스믹 샤워-설치',
 location: 'new-assets/SMcosmicShower.png',
-job: '소울마스터(리마스터)',
+job: '소울마스터',
 lt: {
   x: -300,
   y: -250,
@@ -8243,16 +8276,16 @@ origin: {
   x: 393,
   y: 267,
 },
-},{name: '코스믹 버스트-추적(4차)',
+},{name: '코스믹 버스트-추적',
 location: 'new-assets/SMcosmicBurst.png',
-job: '소울마스터(리마스터)',
+job: '소울마스터',
 lt: {
-  x: -450,
-  y: -450,
+  x: -500,
+  y: -500,
 },
 rb: {
-  x: 450,
-  y: 450,
+  x: 500,
+  y: 400,
 },
 origin: {
   x: 393,
@@ -8260,7 +8293,7 @@ origin: {
 },
 },{name: '블레이징 어썰트',
 location: 'new-assets/blazingAssault.png',
-job: '소울마스터(리마스터)',
+job: '소울마스터',
 lt: {
   x: -500,
   y: -180,
@@ -8275,7 +8308,7 @@ origin: {
 },
 },{name: '러스터 차지',
 location: 'new-assets/blazingAssault.png',
-job: '소울마스터(리마스터)',
+job: '소울마스터',
 lt: {
   x: -500,
   y: -180,
@@ -8290,7 +8323,7 @@ origin: {
 },
 },{name: '코스모스',
 location: 'new-assets/cosmos.png',
-job: '소울마스터(리마스터)',
+job: '소울마스터',
 lt: {
   x: -380,
   y: -340,
@@ -8303,9 +8336,9 @@ origin: {
   x: 524,
   y: 406,
 },
-},{name: '플레임 바이트(1차)',
+},/* {name: '플레임 바이트(1차)',
 location: 'new-assets/FWflameWind.png',
-job: '플레임위자드(리마스터)',
+job: '플레임위자드',
 lt: {
   x: -310,
   y: -90,
@@ -8320,7 +8353,7 @@ origin: {
 },
 },{name: '플레임 볼텍스(2차)',
 location: 'new-assets/FWfireRelease.png',
-job: '플레임위자드(리마스터)',
+job: '플레임위자드',
 lt: {
   x: -420,
   y: -170,
@@ -8335,7 +8368,7 @@ origin: {
 },
 },{name: '플레임 템페스타(3차)',
 location: 'new-assets/FWblazingStrike.png',
-job: '플레임위자드(리마스터)',
+job: '플레임위자드',
 lt: {
   x: -360,
   y: -167,
@@ -8350,7 +8383,7 @@ origin: {
 },
 },{name: '마엘스트롬(3차) - 범위',
 location: 'new-assets/FWcolossusBomb.png',
-job: '플레임위자드(리마스터)',
+job: '플레임위자드',
 lt: {
   x: -300,
   y: -340,
@@ -8363,9 +8396,9 @@ origin: {
   x: 407,
   y: 325,
 },
-},{name: '인페르노라이즈(라이온)',
+}, */{name: '인페르노라이즈(라이온)',
 location: 'new-assets/FWignition.png',
-job: '플레임위자드(리마스터)',
+job: '플레임위자드',
 lt: {
   x: -440,
   y: -430,
@@ -8380,7 +8413,7 @@ origin: {
 },
 },{name: '인페르노라이즈(폭스)',
 location: 'new-assets/FWinfernoFox.png',
-job: '플레임위자드(리마스터)',
+job: '플레임위자드',
 lt: {
   x: -170,
   y: -100,
@@ -8393,9 +8426,9 @@ origin: {
   x: 214,
   y: 392,
 },
-},{name: '버닝 리전(4차)',
+},{name: '버닝 리전',
 location: 'new-assets/FWburningRegion.png',
-job: '플레임위자드(리마스터)',
+job: '플레임위자드',
 lt: {
   x: -300,
   y: -150,
@@ -8408,9 +8441,9 @@ origin: {
   x: 461,
   y: 204,
 },
-},{name: '브리즈 애로우(1차)',
+},/* {name: '브리즈 애로우(1차)',
 location: 'new-assets/WBbreezeArrow.png',
-job: '윈드브레이커(리마스터)',
+job: '윈드브레이커',
 lt: {
   x: -300,
   y: -100,
@@ -8425,7 +8458,7 @@ origin: {
 },
 },{name: '거스트 샷(2차)',
 location: 'new-assets/WBgustShot.png',
-job: '윈드브레이커(리마스터)',
+job: '윈드브레이커',
 lt: {
   x: -380,
   y: -160,
@@ -8438,9 +8471,9 @@ origin: {
   x: 237,
   y: 107,
 },
-},{name: '윔 - 추적 범위?',
+}, */{name: '윔 - 추적 범위?',
 location: 'new-assets/WBspiralVortex.png',
-job: '윈드브레이커(리마스터)',
+job: '윈드브레이커',
 lt: {
   x: -500,
   y: -250,
@@ -8453,9 +8486,9 @@ origin: {
   x: 132,
   y: 185,
 },
-},{name: '서리바람의 군무(3차)',
+},/* {name: '서리바람의 군무(3차)',
 location: 'new-assets/WBdanceOfFrozenWind.png',
-job: '윈드브레이커(리마스터)',
+job: '윈드브레이커',
 lt: {
   x: -225,
   y: -220,
@@ -8468,9 +8501,9 @@ origin: {
   x: 314,
   y: 429,
 },
-},{name: '에메랄드 플라워 - 어그로 범위?',
+}, */{name: '에메랄드 플라워 - 어그로 범위?',
 location: 'new-assets/WBemeraldFlower.png',
-job: '윈드브레이커(리마스터)',
+job: '윈드브레이커',
 lt: {
   x: -240,
   y: -180,
@@ -8483,9 +8516,9 @@ origin: {
   x: 80,
   y: 157,
 },
-},{name: '페어리 턴(4차)',
+},{name: '페어리 턴',
 location: 'new-assets/WBfairyTurn.png',
-job: '윈드브레이커(리마스터)',
+job: '윈드브레이커',
 lt: {
   x: -390,
   y: -170,
@@ -8498,9 +8531,9 @@ origin: {
   x: 483,
   y: 236,
 },
-},{name: '천공의 노래(4차)',
+},{name: '천공의 노래',
 location: 'new-assets/WBsongOfSky.png',
-job: '윈드브레이커(리마스터)',
+job: '윈드브레이커',
 lt: {
   x: -450,
   y: -150,
@@ -8513,9 +8546,9 @@ origin: {
   x: 246,
   y: 235,
 },
-},{name: '몬순(하이퍼)',
+},{name: '몬순',
 location: 'new-assets/WBmonsoon.png',
-job: '윈드브레이커(리마스터)',
+job: '윈드브레이커',
 lt: {
   x: -550,
   y: -300,
@@ -8530,7 +8563,7 @@ origin: {
 },
 },{name: '스톰 윔 - 범위?',
 location: 'new-assets/WBStormWhim.png',
-job: '윈드브레이커(리마스터)',
+job: '윈드브레이커',
 lt: {
   x: -800,
   y: -250,
@@ -8543,9 +8576,9 @@ origin: {
   x: 197,
   y: 369,
 },
-},{name: '럭키세븐(1차)',
+},/* {name: '럭키세븐(1차)',
 location: 'new-assets/NWluckySeven.png',
-job: '나이트워커(리마스터)',
+job: '나이트워커',
 lt: {
   x: -300,
   y: -145,
@@ -8558,9 +8591,9 @@ origin: {
   x: 380,
   y: 194,
 },
-},{name: '다크니스 오멘(설치)',
+}, */{name: '다크니스 오멘(설치)',
 location: 'new-assets/NWdarknessOmen.png',
-job: '나이트워커(리마스터)',
+job: '나이트워커',
 lt: {
   x: -300,
   y: -300,
@@ -8575,7 +8608,7 @@ origin: {
 },
 },{name: '쉐도우 스티치 - 적용 범위?',
 location: 'new-assets/NWshadowStitch.png',
-job: '나이트워커(리마스터)',
+job: '나이트워커',
 lt: {
   x: -340,
   y: -430,
@@ -8588,9 +8621,9 @@ origin: {
   x: 276,
   y: 220,
 },
-},{name: '충아(1차)',
+},{name: '충아',
 location: 'new-assets/STsharkTooth.png',
-job: '스트라이커(리마스터)',
+job: '스트라이커',
 lt: {
   x: -275,
   y: -150,
@@ -8605,7 +8638,7 @@ origin: {
 },
 },{name: '섬광 - 이동 가능 범위?',
 location: 'new-assets/STflash.png',
-job: '스트라이커(리마스터)',
+job: '스트라이커',
 lt: {
   x: -450,
   y: -100,
@@ -8642,9 +8675,9 @@ origin: {
   x: 213,
   y: 94,
 },
-},{name: '회축(2차)',
+},{name: '회축',
 location: 'new-assets/STsharkKick.png',
-job: '스트라이커(리마스터)',
+job: '스트라이커',
 lt: {
   x: -250,
   y: -240,
@@ -8657,9 +8690,9 @@ origin: {
   x: 291,
   y: 240,
 },
-},{name: '파도(2차)',
+},{name: '파도',
 location: 'new-assets/STwaterWave.png',
-job: '스트라이커(리마스터)',
+job: '스트라이커',
 lt: {
   x: -400,
   y: -130,
@@ -8674,7 +8707,7 @@ origin: {
 },
 },{name: '해파(+장판의 이동 범위?)',
 location: 'new-assets/SToceanWave.png',
-job: '스트라이커(리마스터)',
+job: '스트라이커',
 lt: {
   x: -95,
   y: -140,
@@ -8694,9 +8727,9 @@ origin: {
   x: 452,
   y: 172,
 },
-},{name: '승천(3차)',
+},{name: '승천',
 location: 'new-assets/STsharkSoryuken.png', //켄이냐?
-job: '스트라이커(리마스터)',
+job: '스트라이커',
 lt: {
   x: -200,
   y: -225,
@@ -8709,9 +8742,9 @@ origin: {
   x: 241,
   y: 331,
 },
-},{name: '뇌성(3차)',
+},{name: '뇌성',
 location: 'new-assets/STthunder.png',
-job: '스트라이커(리마스터)',
+job: '스트라이커',
 lt: {
   x: -320,
   y: -30,
@@ -8724,9 +8757,9 @@ origin: {
   x: 391,
   y: 86,
 },
-},{name: '질풍(3차)',
+},{name: '질풍',
 location: 'new-assets/STtornado.png',
-job: '스트라이커(리마스터)',
+job: '스트라이커',
 lt: {
   x: -400,
   y: -215,
@@ -8739,9 +8772,9 @@ origin: {
   x: 412,
   y: 262,
 },
-},{name: '섬멸(4차)',
+},{name: '섬멸',
 location: 'new-assets/STsharkUltimate.png',
-job: '스트라이커(리마스터)',
+job: '스트라이커',
 lt: {
   x: -360,
   y: -190,
@@ -8754,9 +8787,9 @@ origin: {
   x: 335,
   y: 223,
 },
-},{name: '벽력(4차)',
+},{name: '벽력',
 location: 'new-assets/STthunderBolt.png',
-job: '스트라이커(리마스터)',
+job: '스트라이커',
 lt: {
   x: -450,
   y: -300,
@@ -8768,9 +8801,9 @@ rb: {
 origin: {
   x: 565,
   y: 542,
-}},{name: '태풍(4차)',
+}},{name: '태풍',
 location: 'new-assets/STtypoon.png',
-job: '스트라이커(리마스터)',
+job: '스트라이커',
 lt: {
   x: -495,
   y: -310,
@@ -8783,9 +8816,9 @@ origin: {
   x: 622,
   y: 388,
 },
-},{name: '해신강림(하이퍼)',
+},{name: '해신강림',
 location: 'new-assets/STgodOfTheSea.png',
-job: '스트라이커(리마스터)',
+job: '스트라이커',
 lt: {
   x: -550,
   y: -300,
