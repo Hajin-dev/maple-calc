@@ -34,55 +34,7 @@ export const mihileSkillData:SkillData[]=[
           y: 519,
         },
       },
-         /* {
-        name: '샤이닝 피어스(1차)',
-        location: 'new-assets/shiningPierce.png',
-        job: '미하일',
-        lt: {
-          x: -290,
-          y: -115
-        },
-        rb: {
-          x: 0,
-          y: 40,
-        },
-        origin: {
-          x: 406,
-          y: 138,
-        },
-      },
-      {name: '소울 어썰트(2차)',
-        location: 'new-assets/new-soulAssault.png',
-        job: '미하일',
-        lt: {
-          x: -310,
-          y: -140,
-        },
-        rb: {
-          x: 20,
-          y: 40,
-        },
-        origin: {
-          x: 354,
-          y: 232,
-        },
-      },
-        {name: '소울 릴리즈(3차)',
-        location: 'new-assets/soulRelease.png',
-        job: '미하일',
-        lt: {
-          x: -335,
-          y: -175,
-        },
-        rb: {
-          x: 5,
-          y: 55,
-        },
-        origin: {
-          x: 425,
-          y: 243,
-        },
-      }, */{name: '인커리지 - 적용 범위',
+       {name: '인커리지 - 적용 범위',
       location: 'new-assets/encourage.png',
       job: '미하일',
       lt: {
@@ -190,6 +142,23 @@ export const mihileSkillData:SkillData[]=[
           x: 796,
           y: 543,
         },
+      },
+      {
+        name: '로 아이아스',
+        location: 'assets/rhoaias.png',
+        job: '미하일',
+        lt: {
+          x: -330,
+          y: -300,
+        },
+        rb: {
+          x: 330,
+          y: 70,
+        },
+        origin: {
+          x: 254,
+          y: 326,
+        },
       },{name: '소울 마제스티(빛의 파동)',
         location: 'new-assets/soulMajesty.png',
         job: '미하일',
@@ -204,6 +173,108 @@ export const mihileSkillData:SkillData[]=[
         origin: {
           x: 435,
           y: 256,
+        },
+      },
+      {name: '소드 오브 소울라이트 - 소울 라이트 슬래시',
+        location: 'assets/cygnus/mihile/5thSoulLightSlash.png',
+        job: '미하일',
+        lt: {
+          x: -420,
+          y: -350,
+        },
+        rb: {
+          x: 20,
+          y: 70,
+        },
+        origin: {
+          x: 522,
+          y: 482,
+        },
+      },
+      {
+        name: '소드 오브 소울라이트 - 라이트 포스레이',
+        location: 'assets/cygnus/mihile/5thLightForceRay.png',
+        job: '미하일',
+        lt: {
+          x: -600,
+          y: -210,
+        },
+        rb: {
+          x: 100,
+          y: 150,
+        },
+        origin: {
+          x: 687,
+          y: 215,
+        },
+      },
+      {
+        name: '소드 오브 소울라이트 - 검의 잔상 (범위)',
+        location: 'assets/cygnus/mihile/5thSwordOfSoulLightSubAttack.png',
+        job: '미하일',
+        lt: {
+          x: -550,
+          y: -300,
+        },
+        rb: {
+          x: 350,
+          y: 200,
+        },
+        origin: {
+          x: 218,
+          y: 335,
+        },
+        
+      },
+      {
+        name: '클라우 솔라스(5)',
+        location: 'assets/cygnus/mihile/5thSwordofLight5.png',
+        job: '미하일',
+        lt: {
+          x: -400,
+          y: -500,
+        },
+        rb: {
+          x: 400,
+          y: 240,
+        },
+        origin: {
+          x: 426,
+          y: 563,
+        },
+      },
+      {
+        name: '샤이닝 크로스 VI',
+        location: 'assets/cygnus/mihile/6thShiningCross.png',
+        job: '미하일',
+        lt: {
+          x: -450,
+          y: -205,
+        },
+        rb: {
+          x: 30,
+          y: 130,
+        },
+        origin: {
+          x: 523,
+          y: 263,
+        },
+      },
+      {
+        name: '샤이닝 크로스 VI - 어썰트',
+        location: 'assets/cygnus/mihile/6thShiningCrossAssault.png',
+        job: '미하일',
+        lt: {
+          x: -385,
+          y: -205,
+        },
+        rb: {
+          x: 20,
+          y: 70,
+        },
+        origin: {
+          x: 512,
+          y: 348,
         },
       },
 ]
