@@ -128,7 +128,7 @@ export const evanSkillData:SkillData[]=[
           y: -90,
         },
         rb: {
-          x: -380,
+          x: -340,
           y: 110,
         },
         origin: {
@@ -141,7 +141,7 @@ export const evanSkillData:SkillData[]=[
         location: 'assets/swiftofthunder2.png',
         job: '에반',
         lt: {
-          x: -270,
+          x: -310,
           y: -295,
         },
         rb: {
@@ -175,7 +175,7 @@ export const evanSkillData:SkillData[]=[
         location: 'assets/swiftofthunder4.png',
         job: '에반',
         lt: {
-          x: -370,
+          x: -410,
           y: -90,
         },
         rb: {
@@ -192,12 +192,12 @@ export const evanSkillData:SkillData[]=[
         location: 'assets/swiftofthunder5.png',
         job: '에반',
         lt: {
-          x: -475,
-          y: -445,
+          x: -485,
+          y: -425,
         },
         rb: {
-          x: -275,
-          y: -245,
+          x: -265,
+          y: -205,
         },
         origin: {
           x: 610,
@@ -243,11 +243,11 @@ export const evanSkillData:SkillData[]=[
         location: 'assets/diveofearth2.png',
         job: '에반',
         lt: {
-          x: -360,
-          y: -214,
+          x: -380,
+          y: -234,
         },
         rb: {
-          x: -54,
+          x: -50,
           y: 2,
         },
         origin: {
@@ -260,11 +260,11 @@ export const evanSkillData:SkillData[]=[
         location: 'assets/diveofearth3.png',
         job: '에반',
         lt: {
-          x: -510,
-          y: -206,
+          x: -480,
+          y: -234,
         },
         rb: {
-          x: -222,
+          x: -150,
           y: 2,
         },
         origin: {
@@ -277,11 +277,11 @@ export const evanSkillData:SkillData[]=[
         location: 'assets/diveofearth4.png',
         job: '에반',
         lt: {
-          x: -770,
-          y: -220,
+          x: -670,
+          y: -234,
         },
         rb: {
-          x: -408,
+          x: -340,
           y: 2,
         },
         origin: {
@@ -501,6 +501,57 @@ export const evanSkillData:SkillData[]=[
         origin: {
           x: 736,
           y: 364,
+        },
+      },
+      {
+        name: '서클 오브 마나 VI(1타)',
+        location: 'assets/heroes/evan/6thManaOfCircle.png',
+        job: '에반',
+        lt: {
+          x: -500,
+          y: -240,
+        },
+        rb: {
+          x: 40,
+          y: 70,
+        },
+        origin: {
+          x: 567,
+          y: 388,
+        },
+      },
+      {
+        name: '서클 오브 마나 VI(2타)',
+        location: 'assets/heroes/evan/6thManaOfCircle2.png',
+        job: '에반',
+        lt: {
+          x: -480,
+          y: -180,
+        },
+        rb: {
+          x: 20,
+          y: 60,
+        },
+        origin: {
+          x: 550,
+          y: 388,
+        },
+      },
+      {
+        name: '조디악 버스트 - 유성우',
+        location: 'assets/heroes/evan/6thZodiacBurstMeteor.png',
+        job: '에반',
+        lt: {
+          x: -200,
+          y: -700,
+        },
+        rb: {
+          x: 200,
+          y: 30,
+        },
+        origin: {
+          x: 199,
+          y: 977,
         },
       },
 ]
