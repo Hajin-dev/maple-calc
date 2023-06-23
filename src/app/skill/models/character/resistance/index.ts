@@ -1,4 +1,11 @@
 import { SkillData } from "../../skill-data";
+import { battleMageSkillData } from "./battleMage";
+import { blasterSkillData } from "./blaster";
+import { demonAvengerSkillData } from "./demonAvenger";
+import { demonSlayerSkillData } from "./demonSlyaer";
+import { mechanicSkillData } from "./mechanic";
+import { wildHunterSkillData } from "./wildHunter";
+import { xenonSkillData } from "./xenon";
 const resistanceCommonSkillData:SkillData[]=[
     {
         name: '레지스탕스 라인 인팬트리',
@@ -19,6 +26,14 @@ const resistanceCommonSkillData:SkillData[]=[
       },
 ]
 const resistanceSkillData:SkillData[]=[
-    ...resistanceCommonSkillData
-];
+    ...resistanceCommonSkillData,
+    ...blasterSkillData,
+    ...demonSlayerSkillData,
+    ...demonAvengerSkillData,
+    ...mechanicSkillData,
+    ...battleMageSkillData,
+    ...wildHunterSkillData,
+    ...mechanicSkillData,
+    ...xenonSkillData
+  ];
 export default resistanceSkillData;
