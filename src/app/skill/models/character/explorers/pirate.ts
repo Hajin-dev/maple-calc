@@ -360,7 +360,6 @@ const captainSkillData:SkillData[]=[ {
     },
   },]
 const cannonShooterSkillData:SkillData[]=[
- 
     {
       name: '캐논 바주카',
       location: 'assets/cannonbazooka.png',
