@@ -290,7 +290,7 @@ export const chtrSkillData: SkillData[] = [
     },
   },
   {
-    name: 'Ghost Yaksha: Great Oni Lord\'s Legion',
+    name: "Ghost Yaksha: Great Oni Lord's Legion",
     location: 'assets/ghost_yaksha_great_oni.png',
     job: '칸나',
     lt: {
