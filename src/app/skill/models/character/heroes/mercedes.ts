@@ -102,4 +102,55 @@ export const mercedesSkillData:SkillData[]=[
           y: 427,
         },
       },
+      {
+        name: '이슈타르의 링 VI',
+        location: 'assets/heroes/mercedes/6thRingOfIshtarLoop.png',
+        job: '메르세데스',
+        lt: {
+          x: -450,
+          y: -130,
+        },
+        rb: {
+          x: 0,
+          y: 70,
+        },
+        origin: {
+          x: 504,
+          y: 238,
+        },
+      },
+      {
+        name: '언페이딩 글로리 - 소환수 공격',
+        location: 'assets/heroes/mercedes/6thUnfadingGlorySummonAttack.png',
+        job: '메르세데스',
+        lt: {
+          x: -500,
+          y: -450,
+        },
+        rb: {
+          x: 400,
+          y: 15,
+        },
+        origin: {
+          x: 589,
+          y: 621,
+        },
+      },
+      {
+        name: '언페이딩 글로리 - 소환수 강화 공격',
+        location: 'assets/heroes/mercedes/6thUnfadingGlorySummonAttack2.png',
+        job: '메르세데스',
+        lt: {
+          x: -800,
+          y: -550,
+        },
+        rb: {
+          x: 800,
+          y: 300,
+        },
+        origin: {
+          x: 581,
+          y: 759,
+        },
+      },
 ]
