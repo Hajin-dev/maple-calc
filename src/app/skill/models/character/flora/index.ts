@@ -1,4 +1,8 @@
 import { SkillData } from "../../skill-data";
+import { adeleSkillData } from "./adele";
+import { arkSkillData } from "./ark";
+import { illiumSkillData } from "./illium";
+import { khaliSkillData } from "./khali";
 
 const floraCommonSkillData:SkillData[]=[
   {
@@ -21,6 +25,10 @@ const floraCommonSkillData:SkillData[]=[
 ]
 
 const floraSkillData:SkillData[]=[
-    ...floraCommonSkillData
+    ...floraCommonSkillData,
+    ...adeleSkillData,
+    ...illiumSkillData,
+    ...khaliSkillData,
+    ...arkSkillData
 ]
 export default floraSkillData;
