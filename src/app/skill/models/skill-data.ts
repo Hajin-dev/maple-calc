@@ -311,8 +311,6 @@ export const chtrSkillData: SkillData[] = [
 ];
 
 export const skillData = [
-  ...chtrSkillData, 
-  ...bossSkillData,
   ...commonSkillData,
   ...explorersSkillData,
   ...cygnusSkillData,
@@ -320,7 +318,9 @@ export const skillData = [
   ...heroesSkillData,
   ...novaSkillData,
   ...floraSkillData,
-  ...etcSkillData];
+  ...etcSkillData,
+  ...chtrSkillData, 
+  ...bossSkillData,];
 
 export const skillRecord: Record<string, SkillData> = skillData.reduce(
   (obj, x) => {

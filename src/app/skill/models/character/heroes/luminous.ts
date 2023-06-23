@@ -160,4 +160,46 @@ export const luminouseSkillData:SkillData[]=[
           y: 361,
         },
       },
+      {
+        name: '앱솔루트 킬 VI',
+        location: 'assets/heroes/luminous/6thAbsoluteKill.png',
+        job: '루미너스',
+        lt: {
+          x: -400,
+          y: -150,
+        },
+        rb: {
+          x: 0,
+          y: 0,
+        },
+        lt2: {
+          x: -140,
+          y: -250,
+        },
+        rb2: {
+          x: 140,
+          y: 0,
+        },
+        origin: {
+          x: 275 + 400,
+          y: 525,
+        },
+      },
+      {
+        name: '하모닉 패러독스 - 키다운',
+        location: 'assets/heroes/luminous/6thHarmonicParadox.png',
+        job: '루미너스',
+        lt: {
+          x: -600,
+          y: -275,
+        },
+        rb: {
+          x: 100,
+          y: 10,
+        },
+        origin: {
+          x: 702,
+          y: 695,
+        },
+      },
 ]
