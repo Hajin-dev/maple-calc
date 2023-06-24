@@ -8,7 +8,7 @@ const novaCommonSkillData:SkillData[]=[
   {
     name: '판테온',
     location: 'assets/pantheon.png',
-    job: '공용',
+    job: '노바 공용',
     lt: {
       x: -550,
       y: -550,

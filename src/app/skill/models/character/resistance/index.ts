@@ -10,7 +10,7 @@ const resistanceCommonSkillData:SkillData[]=[
     {
         name: '레지스탕스 라인 인팬트리',
         location: 'assets/infantry.png',
-        job: '공용',
+        job: '레지스탕스 공용',
         lt: {
           x: -450,
           y: -200,

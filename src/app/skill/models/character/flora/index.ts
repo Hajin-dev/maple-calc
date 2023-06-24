@@ -8,7 +8,7 @@ const floraCommonSkillData:SkillData[]=[
   {
         name: '매직 서킷 풀드라이브',
         location: 'assets/fulldrive.png',
-        job: '공용',
+        job: '레프 공용',
         lt: {
           x: -700,
           y: -500,

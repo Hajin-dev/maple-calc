@@ -497,7 +497,7 @@ const pathFinderSkillData:SkillData[]=[{
 const bowmenCommonSkillData:SkillData[]=[{
     name: '샤프 아이즈 - 적용 범위',
     location: 'assets/sharpEyes.png',
-    job: '공용',
+    job: '궁수 공용',
     lt: {
       x: -400,
       y: -300,
@@ -513,7 +513,7 @@ const bowmenCommonSkillData:SkillData[]=[{
   },{
     name: '피닉스/프리저/레이븐',
     location: 'assets/phoenix.png',
-    job: '공용',
+    job: '모험가 궁수 공용',
     lt: {
       x: -280,
       y: -100,

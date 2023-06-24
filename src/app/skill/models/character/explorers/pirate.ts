@@ -423,7 +423,7 @@ const pirateCommonSkillData:SkillData[]=[
     {
       name: '파이렛 플래그',
       location: 'assets/pirateflag.png',
-      job: '공용',
+      job: '해적 공용',
       lt: {
         x: -295,
         y: -415,
