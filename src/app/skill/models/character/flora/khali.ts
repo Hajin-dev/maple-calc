@@ -121,6 +121,57 @@ export const khaliSkillData:SkillData[]=[
         },
       },
       {
+        name: '헥스 : 판데모니움',
+        location: 'assets/flora/khali/5thPandemonium.png',
+        job: '칼리',
+        lt: {
+          x: -275,
+          y: -430,
+        },
+        rb: {
+          x: 275,
+          y: 70,
+        },
+        origin: {
+          x: 365,
+          y: 534,
+        },
+      },
+      {
+        name: '헥스 : 판데모니움(폭발)',
+        location: 'assets/flora/khali/5thPandemoniumDead.png',
+        job: '칼리',
+        lt: {
+          x: -350,
+          y: -470,
+        },
+        rb: {
+          x: 350,
+          y: 130,
+        },
+        origin: {
+          x: 606,
+          y: 628,
+        },
+      },
+      {
+        name: '아츠 : 아스트라',
+        location: 'assets/flora/khali/5thAstra.png',
+        job: '칼리',
+        lt: {
+          x: -180,
+          y: -600,
+        },
+        rb: {
+          x: 180,
+          y: 20,
+        },
+        origin: {
+          x: 206,
+          y: 525,
+        },
+      },
+      {
         name: '아츠 : 플러리 VI',
         location: 'assets/flora/khali/6thFlurry.png',
         job: '칼리',
