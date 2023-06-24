@@ -308,4 +308,97 @@ export const arkSkillData:SkillData[]=[
           y: 404,
         },
       },
+      {
+        name: '플레인 차지드라이브 VI',
+        location: 'assets/flora/ark/6thPlainChargeDrive.png',
+        job: '아크',
+        lt: {
+          x: -410,
+          y: -230,
+        },
+        rb: {
+          x: 70,
+          y: 20,
+        },
+        origin: {
+          x: 590,
+          y: 277,
+        },
+      },
+      {
+        name: '스칼렛 차지드라이브 VI',
+        location: 'assets/flora/ark/6thScarletChargeDrive.png',
+        job: '아크',
+        lt: {
+          x: -400,
+          y: -155,
+        },
+        rb: {
+          x: 30,
+          y: 45,
+        },
+        origin: {
+          x: 482,
+          y: 179,
+        },
+      },
+      {
+        name: '스칼렛 차지드라이브 VI - 적중 불길',
+        location: 'assets/flora/ark/6thScarletChargeDriveFireWave.png',
+        job: '아크',
+        lt: {
+          x: -430,
+          y: -180,
+        },
+        rb: {
+          x: 5,
+          y: 0,
+        },
+        origin: {
+          x: 476,
+          y: 385,
+        },
+      },
+      {
+        name: '거스트 차지드라이브 VI',
+        location: 'assets/flora/ark/6thGustChargeDrive.png',
+        job: '아크',
+        lt: {
+          x: -380,
+          y: -160,
+        },
+        rb: {
+          x: 40,
+          y: 180,
+        },
+        lt2: {
+          x: -550,
+          y: -1,
+        },
+        rb2: {
+          x: 1,
+          y: 150,
+        },
+        origin: {
+          x: 442,
+          y: 144,
+        },
+      },
+      {
+        name: '어비스 차지드라이브 VI',
+        location: 'assets/flora/ark/6thAbyssChargeDrive.png',
+        job: '아크',
+        lt: {
+          x: -250,
+          y: -370,
+        },
+        rb: {
+          x: 230,
+          y: 10,
+        },
+        origin: {
+          x: 379,
+          y: 563,
+        },
+      },
 ]

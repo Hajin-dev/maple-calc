@@ -221,4 +221,38 @@ export const adeleSkillData:SkillData[]=[
           y: 440,
         },
       },
+      {
+        name: '디바이드 VI',
+        location: 'assets/flora/adele/6thDivide.png',
+        job: '아델',
+        lt: {
+          x: -460,
+          y: -210,
+        },
+        rb: {
+          x: 35,
+          y: 135,
+        },
+        origin: {
+          x: 587,
+          y: 304,
+        },
+      },
+      {
+        name: '디바이드 VI - 강화',
+        location: 'assets/flora/adele/6thDivide1.png',
+        job: '아델',
+        lt: {
+          x: -520,
+          y: -325,
+        },
+        rb: {
+          x: 35,
+          y: 180,
+        },
+        origin: {
+          x: 595,
+          y: 386,
+        },
+      },
 ]
