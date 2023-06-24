@@ -30,7 +30,6 @@ const resistanceSkillData:SkillData[]=[
     ...blasterSkillData,
     ...demonSlayerSkillData,
     ...demonAvengerSkillData,
-    ...mechanicSkillData,
     ...battleMageSkillData,
     ...wildHunterSkillData,
     ...mechanicSkillData,

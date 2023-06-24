@@ -152,5 +152,21 @@ export const demonAvengerSkillData:SkillData[]=[
           x: 494,
           y: 321,
         },
-      },
+      },{
+        name: '실드 체이싱 VI - 추적 가능 범위?',
+        location: 'assets/resistance/demonAvenger/6thShieldChasing.png',
+        job: '데몬어벤져',
+        lt: {
+          x: -500,
+          y: -400,
+        },
+        rb: {
+          x: 200,
+          y: 200,
+        },
+        origin: {
+          x: 257,
+          y: 398,
+        },
+      }
 ]

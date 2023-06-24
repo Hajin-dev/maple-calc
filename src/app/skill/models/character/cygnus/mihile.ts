@@ -35,7 +35,7 @@ export const mihileSkillData:SkillData[]=[
         },
       },
        {name: '인커리지 - 적용 범위',
-      location: 'new-assets/encourage.png',
+      location: 'assets/cygnus/mihile/Encourage.png',
       job: '미하일',
       lt: {
         x: -300,

@@ -407,23 +407,6 @@ const paladinSkillData: SkillData[]=[
         },
       },
       {
-        name: '홀리 유니티 - 탐색 가능 범위',
-        location: 'assets/holyUnity.png',
-        job: '팔라딘',
-        lt: {
-          x: -500,
-          y: -150,
-        },
-        rb: {
-          x: 30,
-          y: 30,
-        },
-        origin: {
-          x: 185,
-          y: 460,
-        },
-      },
-      {
         name: '블래스트 VI',
         location: 'assets/explorers/warrior/6thBlast.png',
         job: '팔라딘',
@@ -442,23 +425,6 @@ const paladinSkillData: SkillData[]=[
       }
 ]
 const darkKnightSkillData: SkillData[]=[
-    {
-        name: '하이퍼 바디 - 적용 범위',
-        location: 'assets/darkimpale.png',
-        job: '다크나이트',
-        lt: {
-          x: -250,
-          y: -150,
-        },
-        rb: {
-          x: 250,
-          y: 150,
-        },
-        origin: {
-          x: 130,
-          y: 239,
-        },
-      },
       {
         name: '다크 임페일',
         location: 'assets/darkimpale.png',

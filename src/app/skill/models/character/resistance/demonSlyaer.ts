@@ -202,5 +202,38 @@ export const demonSlayerSkillData:SkillData[]=[
           x: 162,
           y: 289,
         },
+      }, {
+        name: '데몬 임팩트 VI',
+        location: 'assets/resistance/demonSlayer/6thDemonImpact1.png',
+        job: '데몬슬레이어',
+        lt: {
+          x: -410,
+          y: -200,
+        },
+        rb: {
+          x: 70,
+          y: 70,
+        },
+        origin: {
+          x: 484,
+          y: 288,
+        },
+      },
+      {
+        name: '데몬 임팩트 VI - 데몬 체인',
+        location: 'assets/resistance/demonSlayer/6thDemonImpact2.png',
+        job: '데몬슬레이어',
+        lt: {
+          x: -650,
+          y: -390,
+        },
+        rb: {
+          x: 100,
+          y: 60,
+        },
+        origin: {
+          x: 794,
+          y: 516,
+        },
       },
 ]

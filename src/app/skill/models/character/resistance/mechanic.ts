@@ -102,4 +102,55 @@ export const mechanicSkillData:SkillData[]=[
           y: 360,
         },
       },
+      {
+        name: '매시브 파이어: SPLASH-F VI',
+        location: 'assets/resistance/mechanic/6thMultiFire1.png',
+        job: '메카닉',
+        lt: {
+          x: -520,
+          y: -185,
+        },
+        rb: {
+          x: 30,
+          y: 65,
+        },
+        origin: {
+          x: 607,
+          y: 277,
+        },
+      },
+      {
+        name: '매시브 파이어: IRON-B VI',
+        location: 'assets/resistance/mechanic/6thTank_MultiFire1.png',
+        job: '메카닉',
+        lt: {
+          x: -700,
+          y: -40,
+        },
+        rb: {
+          x: 0,
+          y: 40,
+        },
+        origin: {
+          x: 344,
+          y: 219,
+        },
+      },
+      {
+        name: '그라운드 제로 - 대규모 폭격',
+        location: 'assets/resistance/mechanic/6thMissileBarrage.png',
+        job: '메카닉',
+        lt: {
+          x: -180,
+          y: -600,
+        },
+        rb: {
+          x: 180,
+          y: 20,
+        },
+        origin: {
+          x: 285,
+          y: 645,
+        },
+      },
 ]

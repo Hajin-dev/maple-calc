@@ -169,5 +169,39 @@ export const blasterSkillData:SkillData[]=[
           x: 604,
           y: 142,
         },
+      }, 
+      {
+        name: '매그넘 펀치 VI',
+        location: 'assets/resistance/blaster/6thGauntletPunch.png',
+        job: '블래스터',
+        lt: {
+          x: -340,
+          y: -175,
+        },
+        rb: {
+          x: 40,
+          y: 70,
+        },
+        origin: {
+          x: 358,
+          y: 185,
+        },
+      },
+      {
+        name: '더블 팡 VI',
+        location: 'assets/resistance/blaster/6thDoubleFang.png',
+        job: '블래스터',
+        lt: {
+          x: -340,
+          y: -220,
+        },
+        rb: {
+          x: 120,
+          y: 70,
+        },
+        origin: {
+          x: 594,
+          y: 348,
+        },
       },
 ]

@@ -136,4 +136,37 @@ export const battleMageSkillData:SkillData[]=[
           y: 502,
         },
       },
+      {
+        name: '데스 VI',
+        location: 'assets/resistance/battleMage/6thDeath1.png',
+        job: '배틀메이지',
+        lt: {
+          x: -530,
+          y: -230,
+        },
+        rb: {
+          x: 170,
+          y: 95,
+        },
+        origin: {
+          x: 713,
+          y: 561,
+        },
+      }, {
+        name: '데스 VI - 강화',
+        location: 'assets/resistance/battleMage/6thDeath2.png',
+        job: '배틀메이지',
+        lt: {
+          x: -655,
+          y: -295,
+        },
+        rb: {
+          x: 170,
+          y: 95,
+        },
+        origin: {
+          x: 841,
+          y: 643,
+        },
+      },
 ]

@@ -119,4 +119,71 @@ export const xenonSkillData:SkillData[]=[
           y: 559,
         },
       },
+      {
+        name: '퍼지롭 매스커레이드 VI: 저격',
+        location: 'assets/resistance/xenon/6thFuzzyLobMasLeft.png',
+        job: '제논',
+        lt: {
+          x: -450,
+          y: -220,
+        },
+        rb: {
+          x: 1,
+          y: 220,
+        },
+        lt2: {
+          x: -175,
+          y: -450,
+        },
+        rb2: {
+          x: 175,
+          y: 25,
+        },
+        origin: {
+          x: 474,
+          y: 185,
+        },
+      },
+      {
+        name: '퍼지롭 매스커레이드 VI: 처형',
+        location: 'assets/resistance/xenon/6thFuzzyLobMasLeft1.png',
+        job: '제논',
+        lt: {
+          x: -450,
+          y: -220,
+        },
+        rb: {
+          x: 1,
+          y: 220,
+        },
+        lt2: {
+          x: -190,
+          y: -495,
+        },
+        rb2: {
+          x: 190,
+          y: 25,
+        },
+        origin: {
+          x: 350,
+          y: 576,
+        },
+      },
+      {
+        name: '퍼지롭 매스커레이드 VI: 폭격',
+        location: 'assets/resistance/xenon/6thFuzzyLobMasRight.png',
+        job: '제논',
+        lt: {
+          x: -285,
+          y: -235,
+        },
+        rb: {
+          x: 250,
+          y: 100,
+        },
+        origin: {
+          x: 378,
+          y: 336,
+        },
+      },
 ]
