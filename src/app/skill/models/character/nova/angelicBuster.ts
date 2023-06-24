@@ -118,5 +118,21 @@ export const angelicBusterSkillData:SkillData[]=[
           x: 674,
           y: 580,
         },
+      }, {
+        name: '트리니티 VI',
+        location: 'assets/nova/angelicBuster/6thTrinity.png',
+        job: '엔젤릭버스터',
+        lt: {
+          x: -400,
+          y: -250,
+        },
+        rb: {
+          x: 50,
+          y: 70,
+        },
+        origin: {
+          x: 420,
+          y: 351,
+        },
       },
 ]

@@ -187,4 +187,123 @@ export const kainSkillData:SkillData[]=[
           y: 229,
         },
       },
+      {
+        name: '폴링 더스트 VI',
+        location: 'assets/nova/kain/6thFallingDust.png',
+        job: '카인',
+        lt: {
+          x: -610,
+          y: -250,
+        },
+        rb: {
+          x: 35,
+          y: 200,
+        },
+        origin: {
+          x: 663,
+          y: 292,
+        },
+      },
+      {
+        name: '[발현] 폴링 더스트 VI',
+        location: 'assets/nova/kain/6thFallingDust1.png',
+        job: '카인',
+        lt: {
+          x: -610,
+          y: -275,
+        },
+        rb: {
+          x: 35,
+          y: 225,
+        },
+        origin: {
+          x: 663,
+          y: 292,
+        },
+      },
+      {
+        name: '[발현] 폴링 더스트 VI - 추가타',
+        location: 'assets/nova/kain/6thFallingDust2.png',
+        job: '카인',
+        lt: {
+          x: -570,
+          y: -420,
+        },
+        rb: {
+          x: 35,
+          y: 225,
+        },
+        origin: {
+          x: 661,
+          y: 497,
+        },
+      },
+      {
+        name: '[처형] 포이즌 니들 VI',
+        location: 'assets/nova/kain/6thPoisonNeedle.png',
+        job: '카인',
+        lt: {
+          x: -290,
+          y: -270,
+        },
+        rb: {
+          x: 250,
+          y: 155,
+        },
+        origin: {
+          x: 379,
+          y: 365,
+        },
+      },
+      {
+        name: '[처형] 포이즌 니들 VI(2타)',
+        location: 'assets/nova/kain/6thPoisonNeedle1.png',
+        job: '카인',
+        lt: {
+          x: -300,
+          y: -230,
+        },
+        rb: {
+          x: 250,
+          y: 50,
+        },
+        origin: {
+          x: 412,
+          y: 317,
+        },
+      },
+      {
+        name: '[처형] 포이즌 니들 VI - 마무리',
+        location: 'assets/nova/kain/6thPoisonNeedle2.png',
+        job: '카인',
+        lt: {
+          x: -325,
+          y: -300,
+        },
+        rb: {
+          x: 275,
+          y: 185,
+        },
+        origin: {
+          x: 421,
+          y: 435,
+        },
+      },
+      {
+        name: '어나일레이션 - 범위?',
+        location: 'assets/nova/kain/6thAnnihilation.png',
+        job: '카인',
+        lt: {
+          x: -460,
+          y: -275,
+        },
+        rb: {
+          x: 460,
+          y: 275,
+        },
+        origin: {
+          x: 727,
+          y: 415,
+        },
+      },
 ]

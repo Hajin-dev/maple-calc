@@ -102,4 +102,38 @@ export const kaiserSkillData:SkillData[]=[
           y: 180 + 80,
         },
       },
+      {
+        name: '기가 슬래셔 VI(일반)',
+        location: 'assets/nova/kaiser/6thGigaSlasher1.png',
+        job: '카이저',
+        lt: {
+          x: -440,
+          y: -240,
+        },
+        rb: {
+          x: 25,
+          y: 60
+        },
+        origin: {
+          x: 487,
+          y: 290,
+        },
+      },
+      {
+        name: '기가 슬래셔 VI(변신)',
+        location: 'assets/nova/kaiser/6thGigaSlasher1.png',
+        job: '카이저',
+        lt: {
+          x: -440,
+          y: -240,
+        },
+        rb: {
+          x: 25,
+          y: 60
+        },
+        origin: {
+          x: 512,
+          y: 348,
+        },
+      },
 ]

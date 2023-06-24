@@ -288,5 +288,55 @@ export const cardenaSkillData:SkillData[]=[
           x: 462,
           y: 568,
         },
+      }, {
+        name: '체인아츠:스트로크 VI(1)',
+        location: 'assets/nova/cardena/6thMantis1.png',
+        job: '카데나',
+        lt: {
+          x: -135,
+          y: -150,
+        },
+        rb: {
+          x: 135,
+          y: 50,
+        },
+        origin: {
+          x: 175,
+          y: 140,
+        },
+      },
+      {
+        name: '체인아츠:스트로크 VI(2)',
+        location: 'assets/nova/cardena/6thMantis2.png',
+        job: '카데나',
+        lt: {
+          x: -490,
+          y: -245,
+        },
+        rb: {
+          x: 20,
+          y: 30,
+        },
+        origin: {
+          x: 462,
+          y: 212,
+        },
+      },
+      {
+        name: '체인아츠:스트로크 VI(2) - 강화 충격파',
+        location: 'assets/nova/cardena/6thMantis3.png',
+        job: '카데나',
+        lt: {
+          x: -500,
+          y: -375,
+        },
+        rb: {
+          x: 30,
+          y: 10,
+        },
+        origin: {
+          x: 647,
+          y: 507,
+        },
       },
 ]
