@@ -210,5 +210,36 @@ origin: {
   x: 823,
   y: 466,
 },
+},{name: '섬멸 VI',
+location: 'assets/cygnus/striker/6thSharkUltimate.png',
+job: '스트라이커',
+lt: {
+  x: -410,
+  y: -215,
+},
+rb: {
+  x: 80,
+  y: 35,
+},
+origin: {
+  x: 511,
+  y: 369,
+},
+}
+,{name: '섬멸 VI - 낙뢰(범위)',
+location: 'assets/cygnus/striker/6thSharkUltimateThunder.png',
+job: '스트라이커',
+lt: {
+  x: -460,
+  y: -275,
+},
+rb: {
+  x: 460,
+  y: 275,
+},
+origin: {
+  x: 97+460,
+  y: 515,
+},
 }
 ]

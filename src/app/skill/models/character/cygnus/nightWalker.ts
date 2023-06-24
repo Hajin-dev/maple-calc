@@ -1,21 +1,6 @@
 import {SkillData} from '../../skill-data'
 export const nightWalkerSkillData:SkillData[]=[
-    /* {name: '럭키세븐(1차)',
-location: 'new-assets/NWluckySeven.png',
-job: '나이트워커',
-lt: {
-  x: -300,
-  y: -145,
-},
-rb: {
-  x: 10,
-  y: 5,
-},
-origin: {
-  x: 380,
-  y: 194,
-},
-}, */{name: '다크니스 오멘(설치)',
+ {name: '다크니스 오멘(설치)',
 location: 'new-assets/NWdarknessOmen.png',
 job: '나이트워커',
 lt: {
@@ -45,5 +30,21 @@ origin: {
   x: 276,
   y: 220,
 },
+},{
+  name: '퀸터플 스로우 VI(5타)',
+location: 'assets/cygnus/nightWalker/6thQuintupleThrow3.png',
+job: '나이트워커',
+lt: {
+  x: -575,
+  y: -100,
 },
+rb: {
+  x: 0,
+  y: 100,
+},
+origin: {
+  x: 274,
+  y: 258,
+},
+}
 ]

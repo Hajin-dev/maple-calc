@@ -462,7 +462,7 @@ const bishopSkillData:SkillData[]=[
           y: 696,
         },
       },
-      /* {
+      {
         name: '홀리 어드밴트 - 대천사',
         location: 'assets/explorers/magician/6thHolyAdvent1.png',
         job: '비숍',
@@ -472,13 +472,13 @@ const bishopSkillData:SkillData[]=[
         },
         rb: {
           x: 800,
-          y: 400,
+          y: 500,
         },
         origin: {
           x: 469,
           y: 719,
         },
-      } */
+      } 
 ]
 const magicianCommonSkillData:SkillData[]=[
     {

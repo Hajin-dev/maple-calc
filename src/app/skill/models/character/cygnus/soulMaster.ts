@@ -1,95 +1,6 @@
 import {SkillData} from '../../skill-data'
 export const soulMasterSkillData:SkillData[]=[
-      /* {name: '솔라 슬래시',
-  location: 'new-assets/SMsolarSlash.png',
-  job: '소울마스터',
-  lt: {
-    x: -220,
-    y: -150,
-  },
-  rb: {
-    x: 20,
-    y: 30,
-  },
-  origin: {
-    x: 252,
-    y: 171,
-  },
-},{name: '루나 디바이드',
-location: 'new-assets/SMlunarDivide.png',
-job: '소울마스터',
-lt: {
-  x: -250,
-  y: -165,
-},
-rb: {
-  x: 20,
-  y: 35,
-},
-origin: {
-  x: 121,
-  y: 150,
-},
-},{name: '솔라 슬래시(2차)',
-location: 'new-assets/SMsolarSlash2.png',
-job: '소울마스터',
-lt: {
-  x: -310,
-  y: -160,
-},
-rb: {
-  x: 20,
-  y: 40,
-},
-origin: {
-  x: 356,
-  y: 174,
-},
-},{name: '루나 디바이드(2차)',
-location: 'new-assets/SMlunarDivide2.png',
-job: '소울마스터',
-lt: {
-  x: -310,
-  y: -185,
-},
-rb: {
-  x: 20,
-  y: 55,
-},
-origin: {
-  x: 146,
-  y: 168,
-},
-},{name: '소울 슬래시(3차)',
-location: 'new-assets/SMsolarSlash3.png',
-job: '소울마스터',
-lt: {
-  x: -360,
-  y: -165,
-},
-rb: {
-  x: 20,
-  y: 55,
-},
-origin: {
-  x: 356,
-  y: 178,
-}},{name: '루나 디바이드(3차)',
-location: 'new-assets/SMlunarDivide3.png',
-job: '소울마스터',
-lt: {
-  x: -360,
-  y: -185,
-},
-rb: {
-  x: 20,
-  y: 65,
-},
-origin: {
-  x: 177,
-  y: 203,
-}, 
-},*/{name: '소울 슬래시(4차)',
+{name: '소울 슬래시(4차)',
 location: 'new-assets/SMsolarSlash4.png',
 job: '소울마스터',
 lt: {
@@ -206,6 +117,38 @@ rb: {
 origin: {
   x: 524,
   y: 406,
+},
+},
+{name: '루나 디바이브 VI',
+location: 'assets/cygnus/soulMaster/6thLunarDivide.png',
+job: '소울마스터',
+lt: {
+  x: -475,
+  y: -220,
+},
+rb: {
+  x: 30,
+  y: 130,
+},
+origin: {
+  x: 467,
+  y: 424,
+},
+},
+{name: '솔라 슬래시 VI',
+location: 'assets/cygnus/soulMaster/6thSolarSlash.png',
+job: '소울마스터',
+lt: {
+  x: -475,
+  y: -220,
+},
+rb: {
+  x: 30,
+  y: 130,
+},
+origin: {
+  x: 498,
+  y: 234,
 },
 },
 ]

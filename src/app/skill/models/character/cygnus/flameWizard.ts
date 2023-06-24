@@ -1,66 +1,6 @@
 import {SkillData} from '../../skill-data'
 export const flameWizardSkillData:SkillData[]=[
-     /* {name: '플레임 바이트(1차)',
-location: 'new-assets/FWflameWind.png',
-job: '플레임위자드',
-lt: {
-  x: -310,
-  y: -90,
-},
-rb: {
-  x: 0,
-  y: 40,
-},
-origin: {
-  x: 401,
-  y: 139,
-},
-},{name: '플레임 볼텍스(2차)',
-location: 'new-assets/FWfireRelease.png',
-job: '플레임위자드',
-lt: {
-  x: -420,
-  y: -170,
-},
-rb: {
-  x: 30,
-  y: 20,
-},
-origin: {
-  x: 573,
-  y: 275,
-},
-},{name: '플레임 템페스타(3차)',
-location: 'new-assets/FWblazingStrike.png',
-job: '플레임위자드',
-lt: {
-  x: -360,
-  y: -167,
-},
-rb: {
-  x: 355,
-  y: 62,
-},
-origin: {
-  x: 478,
-  y: 219,
-},
-},{name: '마엘스트롬(3차) - 범위',
-location: 'new-assets/FWcolossusBomb.png',
-job: '플레임위자드',
-lt: {
-  x: -300,
-  y: -340,
-},
-rb: {
-  x: 300,
-  y: 60,
-},
-origin: {
-  x: 407,
-  y: 325,
-},
-}, */{name: '인페르노라이즈(라이온)',
+{name: '인페르노라이즈(라이온)',
 location: 'new-assets/FWignition.png',
 job: '플레임위자드',
 lt: {
@@ -106,4 +46,21 @@ origin: {
   y: 204,
 },
 },
+{
+  name: '오비탈 플레임 VI(폭스) - 강력한 화염',
+location: 'assets/cygnus/flameWizard/6thOrbitalFlameFoxEnhanced.png',
+job: '플레임위자드',
+lt: {
+  x: -570,
+  y: -350,
+},
+rb: {
+  x: -30,
+  y: 50,
+},
+origin: {
+  x: 694,
+  y: 417,
+},
+}
 ]
