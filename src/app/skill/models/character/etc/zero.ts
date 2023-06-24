@@ -508,4 +508,174 @@ export const zeroSkillData:SkillData[]=[
           y: 42,
         },
       },
+      {
+        name: '기가 크래시 VI',
+        location: 'assets/etc/zero/6thGigaStrike.png',
+        job: '제로',
+        lt: {
+          x: -300,
+          y: -250,
+        },
+        rb: {
+          x: 10,
+          y: 10,
+        },
+        origin: {
+          x: 348,
+          y: 262,
+        },
+      },
+      {
+        name: '점핑 크래시 VI - 충격파',
+        location: 'assets/etc/zero/6thJumpingCrashWave.png',
+        job: '제로',
+        lt: {
+          x: -340,
+          y: -40,
+        },
+        rb: {
+          x: 10,
+          y: 10,
+        },
+        origin: {
+          x: 413,
+          y: 435,
+        },
+      },
+      {
+        name: '어스 브레이크 VI',
+        location: 'assets/etc/zero/6thEarthBreak.png',
+        job: '제로',
+        lt: {
+          x: -370,
+          y: -470,
+        },
+        rb: {
+          x: 90,
+          y: 35,
+        },
+        origin: {
+          x: 542,
+          y: 554,
+        },
+      },
+      {
+        name: '어스 브레이크 VI - 충격파',
+        location: 'assets/etc/zero/6thEarthBreakWave.png',
+        job: '제로',
+        lt: {
+          x: -370,
+          y: -530,
+        },
+        rb: {
+          x: 90,
+          y: 10,
+        },
+        origin: {
+          x: 475,
+          y: 720,
+        },
+      },
+      {
+        name: '어스 브레이크 VI - 전기지역',
+        location: 'assets/etc/zero/6thEarthBreakWave2.png',
+        job: '제로',
+        lt: {
+          x: -240,
+          y: -50,
+        },
+        rb: {
+          x: 240,
+          y: 10,
+        },
+        origin: {
+          x: 255,
+          y: 79,
+        },
+      },
+      {
+        name: '윈드 커터 VI',
+        location: 'assets/etc/zero/6thWindCutter.png',
+        job: '제로',
+        lt: {
+          x: -320,
+          y: -190,
+        },
+        rb: {
+          x: 165,
+          y: 15,
+        },
+        origin: {
+          x: 328,
+          y: 209,
+        },
+      },
+      {
+        name: '윈드 커터 VI - 소용돌이',
+        location: 'assets/etc/zero/6thWindCutterTornado.png',
+        job: '제로',
+        lt: {
+          x: -100,
+          y: -190,
+        },
+        rb: {
+          x: 100,
+          y: 10,
+        },
+        origin: {
+          x: 109,
+          y: 207,
+        },
+      },
+      {
+        name: '윈드 스트라이커 VI',
+        location: 'assets/etc/zero/6thWindCrash.png',
+        job: '제로',
+        lt: {
+          x: -435,
+          y: -190,
+        },
+        rb: {
+          x: 165,
+          y: 25,
+        },
+        origin: {
+          x: 454,
+          y: 178,
+        },
+      },
+      {
+        name: '스톰 브레이크 VI',
+        location: 'assets/etc/zero/6thStormBreak.png',
+        job: '제로',
+        lt: {
+          x: -465,
+          y: -240,
+        },
+        rb: {
+          x: 100,
+          y: 45,
+        },
+        origin: {
+          x: 474,
+          y: 430,
+        },
+      },
+      {
+        name: '스톰 브레이크 VI - 소용돌이',
+        location: 'assets/etc/zero/6thStormBreakTornado.png',
+        job: '제로',
+        lt: {
+          x: -150,
+          y: -240,
+        },
+        rb: {
+          x: 150,
+          y: 10,
+        },
+        origin: {
+          x: 155,
+          y: 271,
+        },
+      },
 ]

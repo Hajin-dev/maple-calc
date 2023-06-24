@@ -169,5 +169,21 @@ export const kinesisSkillData:SkillData[]=[
           x: 1327,
           y: 441,
         },
+      },      {
+        name: '얼티메이트-메테리얼 VI',
+        location: 'assets/etc/kinesis/6thMaterial.png',
+        job: '키네시스',
+        lt: {
+          x: -175,
+          y: -540,
+        },
+        rb: {
+          x: 175,
+          y: 10,
+        },
+        origin: {
+          x: 607,
+          y: 588,
+        },
       },
 ]
