@@ -88,12 +88,12 @@ origin: {
 location: 'new-assets/SToceanWave.png',
 job: '스트라이커',
 lt: {
-  x: -95,
-  y: -140,
+  x: -100,
+  y: -150,
 },
 rb: {
-  x: 85,
-  y: 20,
+  x: 100,
+  y: 50,
 },lt2: {
   x: -300,
   y: 0,
@@ -170,12 +170,12 @@ origin: {
 location: 'new-assets/STthunderBolt.png',
 job: '스트라이커',
 lt: {
-  x: -450,
-  y: -300,
+  x: -460,
+  y: -725,
 },
 rb: {
   x: 0,
-  y: 0,
+  y: 85,
 },
 origin: {
   x: 565,
@@ -209,6 +209,21 @@ rb: {
 origin: {
   x: 823,
   y: 466,
+},
+},{name: '뇌신창격',
+location: 'assets/cygnus/striker/5thLightningGodSpearStrike.png',
+job: '스트라이커',
+lt: {
+  x: -430,
+  y: -475,
+},
+rb: {
+  x: 130,
+  y: 50,
+},
+origin: {
+  x: 438,
+  y: 568,
 },
 },{name: '섬멸 VI',
 location: 'assets/cygnus/striker/6thSharkUltimate.png',

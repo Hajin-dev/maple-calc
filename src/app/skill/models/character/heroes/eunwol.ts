@@ -5,12 +5,12 @@ export const eunwolSkillData:SkillData[]=[
     location: 'assets/bombpunch1.png',
     job: '은월',
     lt: {
-      x: -325,
-      y: -220,
+      x: -365,
+      y: -290,
     },
     rb: {
-      x: 5,
-      y: 10,
+      x: 15,
+      y: 60,
     },
     origin: {
       x: 321,
@@ -138,19 +138,19 @@ export const eunwolSkillData:SkillData[]=[
   },
   {
     name: '진 귀참',
-    location: 'assets/jingwicham.png',
+    location: 'assets/heroes/eunwol/5thNewGwiCharm.png',
     job: '은월',
     lt: {
       x: -400,
       y: -460,
     },
     rb: {
-      x: 300,
-      y: 30,
+      x: 360,
+      y: 80,
     },
     origin: {
-      x: 376,
-      y: 618,
+      x: 436,
+      y: 598,
     },
   },
   {

@@ -5,12 +5,12 @@ export const blasterSkillData:SkillData[]=[
         location: 'assets/magnumpunch.png',
         job: '블래스터',
         lt: {
-          x: -295,
-          y: -95,
+          x: -300,
+          y: -150,
         },
         rb: {
-          x: 0,
-          y: 35,
+          x: 40,
+          y: 70,
         },
         origin: {
           x: 296,
@@ -22,12 +22,12 @@ export const blasterSkillData:SkillData[]=[
         location: 'assets/doublepang.png',
         job: '블래스터',
         lt: {
-          x: -290,
+          x: -300,
           y: -215,
         },
         rb: {
           x: 120,
-          y: 0,
+          y: 70,
         },
         origin: {
           x: 297,
@@ -40,11 +40,11 @@ export const blasterSkillData:SkillData[]=[
         job: '블래스터',
         lt: {
           x: -380,
-          y: -120,
+          y: -130,
         },
         rb: {
-          x: 50,
-          y: 40,
+          x: 100,
+          y: 60,
         },
         origin: {
           x: 384,
@@ -169,7 +169,24 @@ export const blasterSkillData:SkillData[]=[
           x: 604,
           y: 142,
         },
-      }, 
+      },
+      {
+        name: '허리케인 믹서',
+        location: 'assets/resistance/blaster/RWrollingHurricane.png',
+        job: '블래스터',
+        lt: {
+          x: -150,
+          y: -300,
+        },
+        rb: {
+          x: 150,
+          y: 0,
+        },
+        origin: {
+          x: 660,
+          y: 440,
+        },
+      },
       {
         name: '매그넘 펀치 VI',
         location: 'assets/resistance/blaster/6thGauntletPunch.png',

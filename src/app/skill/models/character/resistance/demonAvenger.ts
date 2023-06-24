@@ -6,11 +6,11 @@ export const demonAvengerSkillData:SkillData[]=[
         job: '데몬어벤져',
         lt: {
           x: -300,
-          y: -140,
+          y: -190,
         },
         rb: {
           x: 300,
-          y: 70,
+          y: 80,
         },
         origin: {
           x: 361,

@@ -161,4 +161,22 @@ export const commonSkillData: SkillData[] = [{
       y:419
   }
 }
+,
+{
+  name:"창조의 아이온",
+  location:'assets/common/Ion.png',
+  job:"공용",
+  lt:{
+      x:-340,
+      y:-385,
+  },
+  rb:{
+      x:340,
+      y:250
+  },
+  origin:{
+      x:349,
+      y:471
+  }
+}
 ]

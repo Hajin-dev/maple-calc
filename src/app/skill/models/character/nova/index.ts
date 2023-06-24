@@ -2,6 +2,7 @@ import { SkillData } from "../../skill-data";
 import { angelicBusterSkillData } from "./angelicBuster";
 import { cardenaSkillData } from "./cardena";
 import { kainSkillData } from "./kain";
+import { kaiserSkillData } from "./kaiser";
 
 const novaCommonSkillData:SkillData[]=[
   {
@@ -26,7 +27,7 @@ const novaCommonSkillData:SkillData[]=[
 const novaSkillData:SkillData[]=[
     ...novaCommonSkillData,
     ...kainSkillData,
-    ...kainSkillData,
+    ...kaiserSkillData,
     ...cardenaSkillData,
     ...angelicBusterSkillData
 ]

@@ -157,7 +157,7 @@ export const laraSkillData:SkillData[]=[
         job: '라라',
         lt: {
           x: -300,
-          y: -150,
+          y: -420,
         },
         rb: {
           x: 300,

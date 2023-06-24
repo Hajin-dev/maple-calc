@@ -5,11 +5,11 @@ export const mercedesSkillData:SkillData[]=[
         location: 'assets/leaptornado.png',
         job: '메르세데스',
         lt: {
-          x: -250,
-          y: -100,
+          x: -290,
+          y: -150,
         },
         rb: {
-          x: 250,
+          x: 290,
           y: 280,
         },
         origin: {
@@ -22,12 +22,12 @@ export const mercedesSkillData:SkillData[]=[
         location: 'assets/gustdive.png',
         job: '메르세데스',
         lt: {
-          x: -320,
-          y: 0,
+          x: -390,
+          y: -30,
         },
         rb: {
           x: 0,
-          y: 120,
+          y: 220,
         },
         origin: {
           x: 338,
@@ -40,11 +40,11 @@ export const mercedesSkillData:SkillData[]=[
         job: '메르세데스',
         lt: {
           x: -500,
-          y: -150,
+          y: -165,
         },
         rb: {
           x: 0,
-          y: 0,
+          y: 30,
         },
         origin: {
           x: 515,
@@ -61,7 +61,7 @@ export const mercedesSkillData:SkillData[]=[
         },
         rb: {
           x: 15,
-          y: 50,
+          y: 110,
         },
         origin: {
           x: 610,
@@ -73,12 +73,12 @@ export const mercedesSkillData:SkillData[]=[
         location: 'assets/wrathofenril.png',
         job: '메르세데스',
         lt: {
-          x: -450,
-          y: -300,
+          x: -600,
+          y: -320,
         },
         rb: {
           x: 0,
-          y: 0,
+          y: 10,
         },
         origin: {
           x: 609,

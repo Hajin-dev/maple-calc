@@ -108,7 +108,24 @@ const bowMasterSkillData:SkillData[]=[{
       y: 261,
     },
   }]
-const marksManSkillData:SkillData[]=[{
+const marksManSkillData:SkillData[]=[
+  {
+    name: '볼트 스위프트',
+    location: 'assets/explorers/bowmen/arrowSpread.png',
+    job: '신궁',
+    lt: {
+      x: -320,
+      y: -310,
+    },
+    rb: {
+      x: 320,
+      y: 250,
+    },
+    origin: {
+      x: 394,
+      y: 359,
+    },
+  },{
     name: '피어싱 II',
     location: 'assets/piercing.png',
     job: '신궁',

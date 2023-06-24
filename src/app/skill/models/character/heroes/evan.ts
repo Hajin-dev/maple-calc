@@ -492,11 +492,11 @@ export const evanSkillData:SkillData[]=[
         job: '에반',
         lt: {
           x: -640,
-          y: -180,
+          y: -240,
         },
         rb: {
           x: 5,
-          y: 60,
+          y: 70,
         },
         origin: {
           x: 736,

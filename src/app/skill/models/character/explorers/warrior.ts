@@ -21,11 +21,11 @@ const heroSkillData: SkillData[] = [{
     location: 'assets/ragingblow.png',
     job: '히어로',
     lt: {
-      x: -340,
-      y: -200,
+      x: -350,
+      y: -220,
     },
     rb: {
-      x: 10,
+      x: 20,
       y: 70,
     },
     origin: {
@@ -38,7 +38,7 @@ const heroSkillData: SkillData[] = [{
     location: 'assets/ragingblow_enrage.png',
     job: '히어로',
     lt: {
-      x: -340,
+      x: -360,
       y: -250,
     },
     rb: {
@@ -277,12 +277,12 @@ const paladinSkillData: SkillData[]=[
         location: 'assets/divinecharge.png',
         job: '팔라딘',
         lt: {
-          x: -420,
-          y: -215,
+          x: -430,
+          y: -225,
         },
         rb: {
-          x: 20,
-          y: 40,
+          x: 30,
+          y: 50,
         },
         origin: {
           x: 474,
@@ -430,8 +430,8 @@ const darkKnightSkillData: SkillData[]=[
         location: 'assets/darkimpale.png',
         job: '다크나이트',
         lt: {
-          x: -410,
-          y: -195,
+          x: -425,
+          y: -210,
         },
         rb: {
           x: 30,

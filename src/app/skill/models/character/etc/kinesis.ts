@@ -9,7 +9,7 @@ export const kinesisSkillData:SkillData[]=[
           y: -540,
         },
         rb: {
-          x: 150 - 300,
+          x: 175 - 300,
           y: 10,
         },
         origin: {

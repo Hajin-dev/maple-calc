@@ -21,16 +21,33 @@ export const wildHunterSkillData:SkillData[]=[
         location: 'assets/wildbalkantypep.png',
         job: '와일드헌터',
         lt: {
-          x: -430,
-          y: -190,
+          x: -485,
+          y: -230,
         },
         rb: {
           x: 0,
-          y: 30,
+          y: 70,
         },
         origin: {
           x: 520,
           y: 226,
+        },
+      },
+      {
+        name: '드릴 컨테이너',
+        location: 'assets/resistance/wildHunter/DrillContainer.png',
+        job: '와일드헌터',
+        lt: {
+          x: -700,
+          y: -245,
+        },
+        rb: {
+          x: -100,
+          y: 45,
+        },
+        origin: {
+          x: 765,
+          y: 268,
         },
       },
       {

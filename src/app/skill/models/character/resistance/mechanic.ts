@@ -133,7 +133,7 @@ export const mechanicSkillData:SkillData[]=[
         },
         origin: {
           x: 344,
-          y: 219,
+          y: 219 - 40,
         },
       },
       {

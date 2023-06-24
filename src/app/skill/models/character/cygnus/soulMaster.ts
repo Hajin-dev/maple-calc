@@ -1,11 +1,11 @@
 import {SkillData} from '../../skill-data'
 export const soulMasterSkillData:SkillData[]=[
-{name: '소울 슬래시(4차)',
+{name: '솔라 슬래시',
 location: 'new-assets/SMsolarSlash4.png',
 job: '소울마스터',
 lt: {
   x: -400,
-  y: -180,
+  y: -205,
 },
 rb: {
   x: 20,
@@ -14,7 +14,7 @@ rb: {
 origin: {
   x: 447,
   y: 179,
-}},{name: '루나 디바이드(4차)',
+}},{name: '루나 디바이드',
 location: 'new-assets/SMlunarDivide4.png',
 job: '소울마스터',
 lt: {

@@ -4,13 +4,21 @@ const viperSkillData:SkillData[]=[ {
     location: 'assets/fistenrage.png',
     job: '바이퍼',
     lt: {
-      x: -280,
-      y: -130,
+      x: -320,
+      y: -150,
     },
     rb: {
       x: 20,
-      y: 40,
+      y: 70,
     },
+/*     lt2: {
+      x: -550,
+      y: -100,
+    },
+    rb2: {
+      x: -50,
+      y: 40,
+    }, */
     origin: {
       x: 466,
       y: 189,

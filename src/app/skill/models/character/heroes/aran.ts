@@ -22,12 +22,12 @@ export const aranSkillData:SkillData[]=[
     location: 'assets/finalblow.png',
     job: '아란',
     lt: {
-      x: -350,
-      y: -232,
+      x: -410,
+      y: -250,
     },
     rb: {
-      x: 0,
-      y: 86,
+      x: 25,
+      y: 60,
     },
     origin: {
       x: 352,
@@ -39,12 +39,12 @@ export const aranSkillData:SkillData[]=[
     location: 'assets/beyonder1.png',
     job: '아란',
     lt: {
-      x: -350,
-      y: -230,
+      x: -410,
+      y: -250,
     },
     rb: {
-      x: 0,
-      y: 30,
+      x: 25,
+      y: 60,
     },
     origin: {
       x: 334,
@@ -56,12 +56,12 @@ export const aranSkillData:SkillData[]=[
     location: 'assets/beyonder2.png',
     job: '아란',
     lt: {
-      x: -350,
-      y: -230,
+      x: -410,
+      y: -250,
     },
     rb: {
-      x: 0,
-      y: 30,
+      x: 25,
+      y: 60,
     },
     origin: {
       x: 395,
@@ -73,12 +73,12 @@ export const aranSkillData:SkillData[]=[
     location: 'assets/beyonder3.png',
     job: '아란',
     lt: {
-      x: -350,
-      y: -230,
+      x: -410,
+      y: -250,
     },
     rb: {
-      x: 0,
-      y: 30,
+      x: 25,
+      y: 60,
     },
     origin: {
       x: 376,
@@ -111,7 +111,7 @@ export const aranSkillData:SkillData[]=[
     },
     rb: {
       x: 70,
-      y: 25,
+      y: 80,
     },
     origin: {
       x: 630,

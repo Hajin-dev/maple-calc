@@ -39,7 +39,7 @@ export const xenonSkillData:SkillData[]=[
         location: 'assets/purgebombardment.png',
         job: '제논',
         lt: {
-          x: -275,
+          x: -285,
           y: -235,
         },
         rb: {

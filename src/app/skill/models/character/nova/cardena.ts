@@ -318,8 +318,8 @@ export const cardenaSkillData:SkillData[]=[
           y: 30,
         },
         origin: {
-          x: 462,
-          y: 212,
+          x: 561,
+          y: 397,
         },
       },
       {

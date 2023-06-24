@@ -162,7 +162,7 @@ const ShadowerSkillData:SkillData[]=[
     },
     rb: {
       x: 420,
-      y: 20,
+      y: 120,
     },
     origin: {
       x: 531,
@@ -299,11 +299,11 @@ const DualBladeSkillData:SkillData[]=[{
     location: 'assets/asura.png',
     job: '듀얼블레이드',
     lt: {
-      x: -160,
-      y: -180,
+      x: -220,
+      y: -250,
     },
     rb: {
-      x: 140,
+      x: 200,
       y: 30,
     },
     origin: {
