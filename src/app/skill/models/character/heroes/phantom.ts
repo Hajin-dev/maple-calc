@@ -127,7 +127,7 @@ export const phantomSkillData:SkillData[]=[{
   },
   {
     name: '템페스트 오브 카드 VI',
-    location: '/assets/heroes/phantom/6thTempestOfCard.png',
+    location: 'assets/heroes/phantom/6thTempestOfCard.png',
     job: '팬텀',
     lt: {
       x: -310,
