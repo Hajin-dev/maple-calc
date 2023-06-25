@@ -220,8 +220,25 @@ const heroSkillData: SkillData[] = [{
       y: 360,
     },
   },
+  {
+    name: '레이징 블로우 VI',
+    location: 'assets/explorers/warrior/6thRaisingBlow0.png',
+    job: '히어로',
+    lt: {
+      x: -360,
+      y: -240,
+    },
+    rb: {
+      x: 40,
+      y: 70,
+    },
+    origin: {
+      x: 482,
+      y: 323,
+    },
+  },
 {
-  name: '레이징 블로우 VI',
+  name: '레이징 블로우 VI(강화)',
   location: 'assets/explorers/warrior/6thRaisingBlow.png',
   job: '히어로',
   lt: {
